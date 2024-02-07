@@ -1,0 +1,97 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ceph-data
+spec:
+  storageClassName: rook-cephfs
+  accessModes:
+  - ReadWriteMany
+  resources:
+    requests:
+      storage: 2000G
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ceph-experiments
+spec:
+  storageClassName: rook-cephfs
+  accessModes:
+  - ReadWriteMany
+  resources:
+    requests:
+      storage: 100G
+
+---
+
+kind: ClusterRole
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: la-nextflow-pod-role
+  namespace: flehmann
+rules:
+ - apiGroups: [""]
+   resources: ["pods","pods/status","pods/log","nodes","configmaps","pods/exec", "secrets"]
+   verbs: ["get", "list", "watch", "create", "update", "patch", "delete"]
+ - apiGroups: ["apps"]
+   resources: ["daemonsets"]
+   verbs: ["get", "list", "watch", "create", "update", "patch", "delete"]
+
+---
+
+kind: ClusterRoleBinding
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+   name: la-nextflow-pod-role-binding
+   namespace: flehmann
+subjects:
+ - kind: ServiceAccount
+   name: la-nextflow
+   namespace: flehmann
+roleRef:
+   kind: ClusterRole
+   name: la-nextflow-pod-role
+   apiGroup: rbac.authorization.k8s.io
+
+---
+
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: la-nextflow
+
+---
+
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: cwsscheduleraccount
+---
+kind: ClusterRole
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: cwsschedulerrole
+  namespace: flehmann
+rules:
+ - apiGroups: [""]
+   resources: ["pods","pods/status","pods/exec","nodes","bindings","configmaps","nodes"]
+   verbs: ["get", "list", "watch", "create", "update", "patch", "delete"]
+ - apiGroups: ["metrics.k8s.io"]
+   resources: ["nodes"]
+   verbs: ["get","list"]
+---
+kind: ClusterRoleBinding
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+   name: cwsschedulerbinding
+   namespace: flehmann
+subjects:
+ - kind: ServiceAccount
+   name: cwsscheduleraccount
+   namespace: flehmann
+roleRef:
+   kind: ClusterRole
+   name: cwsschedulerrole
+   apiGroup: rbac.authorization.k8s.io

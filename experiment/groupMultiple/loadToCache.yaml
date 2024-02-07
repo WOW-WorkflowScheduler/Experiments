@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: workflow-prepare
+spec:
+  selector:
+    matchLabels:
+      name: workflow-prepare
+  template:
+    metadata:
+      labels:
+        name: workflow-prepare
+    spec:
+      containers:
+      - command:
+        - /bin/sh
+        - -c
+        - sleep infinity
+        image: alpine
+        name: c1
+      initContainers:
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: fabianlehmann/test1:fio
+        imagePullPolicy: IfNotPresent
+        name: init0

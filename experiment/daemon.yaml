@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  labels:
+    app: nextflow
+  name: node-shell
+  namespace: default
+spec:
+  selector:
+    matchLabels:
+      name: node-shell
+  template:
+    metadata:
+      labels:
+        app: nextflow
+        name: node-shell
+    spec:
+      containers:
+      - image: ubuntu
+        imagePullPolicy: IfNotPresent
+        name: node-shell
+        command:
+          - /bin/bash
+          - "-c"
+          - "sleep infinity"
+        volumeMounts:
+        - mountPath: /localdata
+          name: vol-1
+      volumes:
+      - hostPath:
+          path: /localdata
+        name: vol-1
