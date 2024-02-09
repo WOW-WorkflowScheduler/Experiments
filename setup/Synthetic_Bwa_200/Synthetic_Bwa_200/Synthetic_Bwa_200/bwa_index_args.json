@@ -1,0 +1,6 @@
+{
+    "00000002": {
+        "out": "\\\"bwa_index_00000002_outfile_0001.bwt\\\":8652943188, \\\"bwa_index_00000002_outfile_0002.pac\\\":2163242286, \\\"bwa_index_00000002_outfile_0003.amb\\\":18000, \\\"bwa_index_00000002_outfile_0004.ann\\\":533600513, \\\"bwa_index_00000002_outfile_0005.sa\\\":4326475920",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    }
+}

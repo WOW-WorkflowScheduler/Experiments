@@ -1,0 +1,162 @@
+{
+    "00000025": {
+        "out": "\\\"mBackground_00000025_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000026": {
+        "out": "\\\"mBackground_00000026_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000027": {
+        "out": "\\\"mBackground_00000027_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000028": {
+        "out": "\\\"mBackground_00000028_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000029": {
+        "out": "\\\"mBackground_00000029_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000030": {
+        "out": "\\\"mBackground_00000030_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000031": {
+        "out": "\\\"mBackground_00000031_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000059": {
+        "out": "\\\"mBackground_00000059_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000060": {
+        "out": "\\\"mBackground_00000060_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000061": {
+        "out": "\\\"mBackground_00000061_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000062": {
+        "out": "\\\"mBackground_00000062_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000063": {
+        "out": "\\\"mBackground_00000063_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000064": {
+        "out": "\\\"mBackground_00000064_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000065": {
+        "out": "\\\"mBackground_00000065_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000093": {
+        "out": "\\\"mBackground_00000093_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000094": {
+        "out": "\\\"mBackground_00000094_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000095": {
+        "out": "\\\"mBackground_00000095_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000096": {
+        "out": "\\\"mBackground_00000096_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000097": {
+        "out": "\\\"mBackground_00000097_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000098": {
+        "out": "\\\"mBackground_00000098_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000099": {
+        "out": "\\\"mBackground_00000099_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000107": {
+        "out": "\\\"mBackground_00000107_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000112": {
+        "out": "\\\"mBackground_00000112_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000115": {
+        "out": "\\\"mBackground_00000115_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000123": {
+        "out": "\\\"mBackground_00000123_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000127": {
+        "out": "\\\"mBackground_00000127_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000140": {
+        "out": "\\\"mBackground_00000140_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000141": {
+        "out": "\\\"mBackground_00000141_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000143": {
+        "out": "\\\"mBackground_00000143_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000147": {
+        "out": "\\\"mBackground_00000147_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000149": {
+        "out": "\\\"mBackground_00000149_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000156": {
+        "out": "\\\"mBackground_00000156_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000162": {
+        "out": "\\\"mBackground_00000162_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000165": {
+        "out": "\\\"mBackground_00000165_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000173": {
+        "out": "\\\"mBackground_00000173_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000177": {
+        "out": "\\\"mBackground_00000177_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000190": {
+        "out": "\\\"mBackground_00000190_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000191": {
+        "out": "\\\"mBackground_00000191_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000193": {
+        "out": "\\\"mBackground_00000193_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    },
+    "00000197": {
+        "out": "\\\"mBackground_00000197_outfile_0001.fits\\\":1540062719",
+        "resources": "--percent-cpu 0.1 --cpu-work 45 --mem 971"
+    }
+}

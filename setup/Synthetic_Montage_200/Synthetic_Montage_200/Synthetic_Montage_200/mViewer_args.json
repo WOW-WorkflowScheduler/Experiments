@@ -1,0 +1,26 @@
+{
+    "00000034": {
+        "out": "\\\"mViewer_00000034_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000034_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    },
+    "00000068": {
+        "out": "\\\"mViewer_00000068_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000068_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    },
+    "00000102": {
+        "out": "\\\"mViewer_00000102_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000102_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    },
+    "00000103": {
+        "out": "\\\"mViewer_00000103_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000103_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    },
+    "00000137": {
+        "out": "\\\"mViewer_00000137_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000137_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    },
+    "00000187": {
+        "out": "\\\"mViewer_00000187_outfile_0001.jpg\\\":1700023790, \\\"mViewer_00000187_outfile_0002.png\\\":491055264",
+        "resources": "--percent-cpu 0.1 --cpu-work 27 --mem 582"
+    }
+}

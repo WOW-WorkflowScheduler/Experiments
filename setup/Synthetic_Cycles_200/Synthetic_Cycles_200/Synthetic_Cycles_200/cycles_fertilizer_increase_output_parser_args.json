@@ -1,0 +1,194 @@
+{
+    "00000004": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000004_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000008": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000008_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000012": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000012_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000016": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000016_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000020": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000020_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000024": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000024_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000028": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000028_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000032": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000032_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000036": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000036_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000040": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000040_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000044": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000044_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000048": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000048_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000052": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000052_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000056": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000056_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000060": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000060_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000064": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000064_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000068": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000068_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000072": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000072_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000076": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000076_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000080": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000080_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000084": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000084_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000088": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000088_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000092": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000092_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000096": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000096_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000100": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000100_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000104": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000104_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000108": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000108_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000112": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000112_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000116": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000116_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000120": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000120_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000124": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000124_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000128": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000128_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000135": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000135_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000139": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000139_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000145": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000145_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000148": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000148_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000152": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000152_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000157": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000157_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000159": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000159_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000163": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000163_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000168": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000168_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000173": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000173_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000176": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000176_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000180": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000180_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000185": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000185_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000190": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000190_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000194": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000194_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    },
+    "00000195": {
+        "out": "\\\"cycles_fertilizer_increase_output_parser_00000195_outfile_0001.csv\\\":430200",
+        "resources": "--percent-cpu 0.1 --cpu-work 9 --mem 202"
+    }
+}

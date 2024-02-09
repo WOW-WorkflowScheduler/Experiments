@@ -1,0 +1,22 @@
+{
+    "00000023": {
+        "out": "\\\"mConcatFit_00000023_outfile_0001.tbl\\\":18673313",
+        "resources": "--percent-cpu 0.1 --cpu-work 7 --mem 162"
+    },
+    "00000057": {
+        "out": "\\\"mConcatFit_00000057_outfile_0001.tbl\\\":18673313",
+        "resources": "--percent-cpu 0.1 --cpu-work 7 --mem 162"
+    },
+    "00000091": {
+        "out": "\\\"mConcatFit_00000091_outfile_0001.tbl\\\":18673313",
+        "resources": "--percent-cpu 0.1 --cpu-work 7 --mem 162"
+    },
+    "00000128": {
+        "out": "\\\"mConcatFit_00000128_outfile_0001.tbl\\\":18673313",
+        "resources": "--percent-cpu 0.1 --cpu-work 7 --mem 162"
+    },
+    "00000178": {
+        "out": "\\\"mConcatFit_00000178_outfile_0001.tbl\\\":18673313",
+        "resources": "--percent-cpu 0.1 --cpu-work 7 --mem 162"
+    }
+}

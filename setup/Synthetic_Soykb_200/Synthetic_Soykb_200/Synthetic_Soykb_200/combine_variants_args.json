@@ -1,0 +1,6 @@
+{
+    "00000092": {
+        "out": "\\\"combine_variants_00000092_outfile_0001.idx\\\":24290450, \\\"combine_variants_00000092_outfile_0002.vcf\\\":74538200",
+        "resources": "--percent-cpu 0.1 --cpu-work 2 --mem 100"
+    }
+}

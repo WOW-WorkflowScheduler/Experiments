@@ -1,0 +1,6956 @@
+{
+    "workflow_infile_0910.txt": [
+        [
+            "individuals",
+            "00000001"
+        ]
+    ],
+    "workflow_infile_0905.vcf": [
+        [
+            "individuals",
+            "00000001"
+        ]
+    ],
+    "workflow_infile_0907.txt": [
+        [
+            "individuals",
+            "00000002"
+        ]
+    ],
+    "workflow_infile_0911.vcf": [
+        [
+            "individuals",
+            "00000002"
+        ]
+    ],
+    "workflow_infile_0901.txt": [
+        [
+            "individuals",
+            "00000003"
+        ]
+    ],
+    "workflow_infile_0110.vcf": [
+        [
+            "individuals",
+            "00000003"
+        ]
+    ],
+    "workflow_infile_0111.txt": [
+        [
+            "individuals",
+            "00000004"
+        ]
+    ],
+    "workflow_infile_0112.vcf": [
+        [
+            "individuals",
+            "00000004"
+        ]
+    ],
+    "workflow_infile_0113.txt": [
+        [
+            "individuals",
+            "00000005"
+        ]
+    ],
+    "workflow_infile_0114.vcf": [
+        [
+            "individuals",
+            "00000005"
+        ]
+    ],
+    "workflow_infile_0115.txt": [
+        [
+            "individuals",
+            "00000006"
+        ]
+    ],
+    "workflow_infile_0116.vcf": [
+        [
+            "individuals",
+            "00000006"
+        ]
+    ],
+    "workflow_infile_0117.txt": [
+        [
+            "individuals",
+            "00000007"
+        ]
+    ],
+    "workflow_infile_0118.vcf": [
+        [
+            "individuals",
+            "00000007"
+        ]
+    ],
+    "workflow_infile_0119.txt": [
+        [
+            "individuals",
+            "00000008"
+        ]
+    ],
+    "workflow_infile_0120.vcf": [
+        [
+            "individuals",
+            "00000008"
+        ]
+    ],
+    "workflow_infile_0121.txt": [
+        [
+            "individuals",
+            "00000009"
+        ]
+    ],
+    "workflow_infile_0122.vcf": [
+        [
+            "individuals",
+            "00000009"
+        ]
+    ],
+    "workflow_infile_0123.txt": [
+        [
+            "individuals",
+            "00000010"
+        ]
+    ],
+    "workflow_infile_0124.vcf": [
+        [
+            "individuals",
+            "00000010"
+        ]
+    ],
+    "individuals_00000001_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000002_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000003_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000004_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000005_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000006_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000007_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000008_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000009_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000010_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ]
+    ],
+    "individuals_00000138_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000011"
+        ],
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "workflow_infile_0127.vcf": [
+        [
+            "sifting",
+            "00000012"
+        ]
+    ],
+    "workflow_infile_0670.txt": [
+        [
+            "individuals",
+            "00000013"
+        ]
+    ],
+    "workflow_infile_0673.vcf": [
+        [
+            "individuals",
+            "00000013"
+        ]
+    ],
+    "workflow_infile_0674.txt": [
+        [
+            "individuals",
+            "00000014"
+        ]
+    ],
+    "workflow_infile_0681.vcf": [
+        [
+            "individuals",
+            "00000014"
+        ]
+    ],
+    "workflow_infile_0682.txt": [
+        [
+            "individuals",
+            "00000015"
+        ]
+    ],
+    "workflow_infile_0686.vcf": [
+        [
+            "individuals",
+            "00000015"
+        ]
+    ],
+    "workflow_infile_0687.txt": [
+        [
+            "individuals",
+            "00000016"
+        ]
+    ],
+    "workflow_infile_0692.vcf": [
+        [
+            "individuals",
+            "00000016"
+        ]
+    ],
+    "workflow_infile_0693.txt": [
+        [
+            "individuals",
+            "00000017"
+        ]
+    ],
+    "workflow_infile_0699.vcf": [
+        [
+            "individuals",
+            "00000017"
+        ]
+    ],
+    "workflow_infile_0700.txt": [
+        [
+            "individuals",
+            "00000018"
+        ]
+    ],
+    "workflow_infile_0705.vcf": [
+        [
+            "individuals",
+            "00000018"
+        ]
+    ],
+    "workflow_infile_0706.txt": [
+        [
+            "individuals",
+            "00000019"
+        ]
+    ],
+    "workflow_infile_0711.vcf": [
+        [
+            "individuals",
+            "00000019"
+        ]
+    ],
+    "workflow_infile_0712.txt": [
+        [
+            "individuals",
+            "00000020"
+        ]
+    ],
+    "workflow_infile_0717.vcf": [
+        [
+            "individuals",
+            "00000020"
+        ]
+    ],
+    "workflow_infile_0718.txt": [
+        [
+            "individuals",
+            "00000021"
+        ]
+    ],
+    "workflow_infile_0724.vcf": [
+        [
+            "individuals",
+            "00000021"
+        ]
+    ],
+    "workflow_infile_0725.txt": [
+        [
+            "individuals",
+            "00000022"
+        ]
+    ],
+    "workflow_infile_0730.vcf": [
+        [
+            "individuals",
+            "00000022"
+        ]
+    ],
+    "individuals_00000013_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000014_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000015_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000016_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000017_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000018_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000019_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000020_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000021_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "individuals_00000022_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000023"
+        ]
+    ],
+    "workflow_infile_0746.vcf": [
+        [
+            "sifting",
+            "00000024"
+        ]
+    ],
+    "workflow_infile_0247.txt": [
+        [
+            "individuals",
+            "00000025"
+        ]
+    ],
+    "workflow_infile_0250.vcf": [
+        [
+            "individuals",
+            "00000025"
+        ]
+    ],
+    "workflow_infile_0252.txt": [
+        [
+            "individuals",
+            "00000026"
+        ]
+    ],
+    "workflow_infile_0255.vcf": [
+        [
+            "individuals",
+            "00000026"
+        ]
+    ],
+    "workflow_infile_0257.txt": [
+        [
+            "individuals",
+            "00000027"
+        ]
+    ],
+    "workflow_infile_0259.vcf": [
+        [
+            "individuals",
+            "00000027"
+        ]
+    ],
+    "workflow_infile_0260.txt": [
+        [
+            "individuals",
+            "00000028"
+        ]
+    ],
+    "workflow_infile_0261.vcf": [
+        [
+            "individuals",
+            "00000028"
+        ]
+    ],
+    "workflow_infile_0262.txt": [
+        [
+            "individuals",
+            "00000029"
+        ]
+    ],
+    "workflow_infile_0266.vcf": [
+        [
+            "individuals",
+            "00000029"
+        ]
+    ],
+    "workflow_infile_0267.txt": [
+        [
+            "individuals",
+            "00000030"
+        ]
+    ],
+    "workflow_infile_0269.vcf": [
+        [
+            "individuals",
+            "00000030"
+        ]
+    ],
+    "workflow_infile_0270.txt": [
+        [
+            "individuals",
+            "00000031"
+        ]
+    ],
+    "workflow_infile_0273.vcf": [
+        [
+            "individuals",
+            "00000031"
+        ]
+    ],
+    "workflow_infile_0275.txt": [
+        [
+            "individuals",
+            "00000032"
+        ]
+    ],
+    "workflow_infile_0277.vcf": [
+        [
+            "individuals",
+            "00000032"
+        ]
+    ],
+    "workflow_infile_0279.txt": [
+        [
+            "individuals",
+            "00000033"
+        ]
+    ],
+    "workflow_infile_0281.vcf": [
+        [
+            "individuals",
+            "00000033"
+        ]
+    ],
+    "workflow_infile_0283.txt": [
+        [
+            "individuals",
+            "00000034"
+        ]
+    ],
+    "workflow_infile_0285.vcf": [
+        [
+            "individuals",
+            "00000034"
+        ]
+    ],
+    "individuals_00000025_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000026_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000027_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000028_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000029_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000030_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000031_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000032_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000033_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000034_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000166_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "individuals_00000198_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000035"
+        ]
+    ],
+    "workflow_infile_0298.vcf": [
+        [
+            "sifting",
+            "00000036"
+        ]
+    ],
+    "workflow_infile_0030.txt": [
+        [
+            "individuals",
+            "00000037"
+        ]
+    ],
+    "workflow_infile_0031.vcf": [
+        [
+            "individuals",
+            "00000037"
+        ]
+    ],
+    "workflow_infile_0032.txt": [
+        [
+            "individuals",
+            "00000038"
+        ]
+    ],
+    "workflow_infile_0033.vcf": [
+        [
+            "individuals",
+            "00000038"
+        ]
+    ],
+    "workflow_infile_0034.txt": [
+        [
+            "individuals",
+            "00000039"
+        ]
+    ],
+    "workflow_infile_0035.vcf": [
+        [
+            "individuals",
+            "00000039"
+        ]
+    ],
+    "workflow_infile_0036.txt": [
+        [
+            "individuals",
+            "00000040"
+        ]
+    ],
+    "workflow_infile_0037.vcf": [
+        [
+            "individuals",
+            "00000040"
+        ]
+    ],
+    "workflow_infile_0038.txt": [
+        [
+            "individuals",
+            "00000041"
+        ]
+    ],
+    "workflow_infile_0039.vcf": [
+        [
+            "individuals",
+            "00000041"
+        ]
+    ],
+    "workflow_infile_0040.txt": [
+        [
+            "individuals",
+            "00000042"
+        ]
+    ],
+    "workflow_infile_0041.vcf": [
+        [
+            "individuals",
+            "00000042"
+        ]
+    ],
+    "workflow_infile_0042.txt": [
+        [
+            "individuals",
+            "00000043"
+        ]
+    ],
+    "workflow_infile_0043.vcf": [
+        [
+            "individuals",
+            "00000043"
+        ]
+    ],
+    "workflow_infile_0044.txt": [
+        [
+            "individuals",
+            "00000044"
+        ]
+    ],
+    "workflow_infile_0045.vcf": [
+        [
+            "individuals",
+            "00000044"
+        ]
+    ],
+    "workflow_infile_0046.txt": [
+        [
+            "individuals",
+            "00000045"
+        ]
+    ],
+    "workflow_infile_0047.vcf": [
+        [
+            "individuals",
+            "00000045"
+        ]
+    ],
+    "workflow_infile_0048.txt": [
+        [
+            "individuals",
+            "00000046"
+        ]
+    ],
+    "workflow_infile_0049.vcf": [
+        [
+            "individuals",
+            "00000046"
+        ]
+    ],
+    "individuals_00000037_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000038_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000039_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000040_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000041_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000042_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000043_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000044_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000045_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000046_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "individuals_00000168_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000047"
+        ]
+    ],
+    "workflow_infile_0052.vcf": [
+        [
+            "sifting",
+            "00000048"
+        ]
+    ],
+    "individuals_merge_00000011_outfile_0001.gz": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ],
+        [
+            "frequency",
+            "00000050"
+        ],
+        [
+            "mutation_overlap",
+            "00000051"
+        ],
+        [
+            "frequency",
+            "00000052"
+        ],
+        [
+            "mutation_overlap",
+            "00000053"
+        ],
+        [
+            "frequency",
+            "00000054"
+        ],
+        [
+            "mutation_overlap",
+            "00000055"
+        ],
+        [
+            "frequency",
+            "00000056"
+        ],
+        [
+            "mutation_overlap",
+            "00000057"
+        ],
+        [
+            "frequency",
+            "00000058"
+        ],
+        [
+            "mutation_overlap",
+            "00000059"
+        ],
+        [
+            "frequency",
+            "00000060"
+        ],
+        [
+            "mutation_overlap",
+            "00000061"
+        ],
+        [
+            "frequency",
+            "00000062"
+        ],
+        [
+            "frequency",
+            "00000105"
+        ],
+        [
+            "mutation_overlap",
+            "00000137"
+        ],
+        [
+            "mutation_overlap",
+            "00000139"
+        ],
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "sifting_00000012_outfile_0001.txt": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ],
+        [
+            "frequency",
+            "00000050"
+        ],
+        [
+            "mutation_overlap",
+            "00000051"
+        ],
+        [
+            "frequency",
+            "00000052"
+        ],
+        [
+            "mutation_overlap",
+            "00000053"
+        ],
+        [
+            "frequency",
+            "00000054"
+        ],
+        [
+            "mutation_overlap",
+            "00000055"
+        ],
+        [
+            "frequency",
+            "00000056"
+        ],
+        [
+            "mutation_overlap",
+            "00000057"
+        ],
+        [
+            "frequency",
+            "00000058"
+        ],
+        [
+            "mutation_overlap",
+            "00000059"
+        ],
+        [
+            "frequency",
+            "00000060"
+        ],
+        [
+            "mutation_overlap",
+            "00000061"
+        ],
+        [
+            "frequency",
+            "00000062"
+        ],
+        [
+            "frequency",
+            "00000105"
+        ],
+        [
+            "mutation_overlap",
+            "00000137"
+        ],
+        [
+            "mutation_overlap",
+            "00000139"
+        ],
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0779": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0128": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0129": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0130": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0131": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0132": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0133": [
+        [
+            "mutation_overlap",
+            "00000049"
+        ]
+    ],
+    "workflow_infile_0134": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0135": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0136": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0137": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0138": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0139": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0140": [
+        [
+            "frequency",
+            "00000050"
+        ]
+    ],
+    "workflow_infile_0141": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0142": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0143": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0144": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0145": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0146": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0147": [
+        [
+            "mutation_overlap",
+            "00000051"
+        ]
+    ],
+    "workflow_infile_0148": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0149": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0150": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0151": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0152": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0153": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0154": [
+        [
+            "frequency",
+            "00000052"
+        ]
+    ],
+    "workflow_infile_0155": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0156": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0157": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0158": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0159": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0160": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0161": [
+        [
+            "mutation_overlap",
+            "00000053"
+        ]
+    ],
+    "workflow_infile_0162": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0163": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0164": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0165": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0166": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0167": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0168": [
+        [
+            "frequency",
+            "00000054"
+        ]
+    ],
+    "workflow_infile_0169": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0170": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0171": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0172": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0173": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0174": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0175": [
+        [
+            "mutation_overlap",
+            "00000055"
+        ]
+    ],
+    "workflow_infile_0176": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0177": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0178": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0179": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0180": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0181": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0182": [
+        [
+            "frequency",
+            "00000056"
+        ]
+    ],
+    "workflow_infile_0183": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0184": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0185": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0186": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0187": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0188": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0189": [
+        [
+            "mutation_overlap",
+            "00000057"
+        ]
+    ],
+    "workflow_infile_0190": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0191": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0192": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0193": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0194": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0195": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0196": [
+        [
+            "frequency",
+            "00000058"
+        ]
+    ],
+    "workflow_infile_0197": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0198": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0199": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0200": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0201": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0202": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0203": [
+        [
+            "mutation_overlap",
+            "00000059"
+        ]
+    ],
+    "workflow_infile_0204": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0205": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0206": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0207": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0208": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0209": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0210": [
+        [
+            "frequency",
+            "00000060"
+        ]
+    ],
+    "workflow_infile_0211": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0212": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0213": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0214": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0215": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0216": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0217": [
+        [
+            "mutation_overlap",
+            "00000061"
+        ]
+    ],
+    "workflow_infile_0218": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0650": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0652": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0654": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0657": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0660": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "workflow_infile_0663": [
+        [
+            "frequency",
+            "00000062"
+        ]
+    ],
+    "individuals_merge_00000023_outfile_0001.gz": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ],
+        [
+            "frequency",
+            "00000064"
+        ],
+        [
+            "mutation_overlap",
+            "00000065"
+        ],
+        [
+            "frequency",
+            "00000066"
+        ],
+        [
+            "mutation_overlap",
+            "00000067"
+        ],
+        [
+            "frequency",
+            "00000068"
+        ],
+        [
+            "mutation_overlap",
+            "00000069"
+        ],
+        [
+            "frequency",
+            "00000070"
+        ],
+        [
+            "mutation_overlap",
+            "00000071"
+        ],
+        [
+            "frequency",
+            "00000072"
+        ],
+        [
+            "mutation_overlap",
+            "00000073"
+        ],
+        [
+            "frequency",
+            "00000074"
+        ],
+        [
+            "mutation_overlap",
+            "00000075"
+        ],
+        [
+            "frequency",
+            "00000076"
+        ],
+        [
+            "frequency",
+            "00000106"
+        ],
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "sifting_00000024_outfile_0001.txt": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ],
+        [
+            "frequency",
+            "00000064"
+        ],
+        [
+            "mutation_overlap",
+            "00000065"
+        ],
+        [
+            "frequency",
+            "00000066"
+        ],
+        [
+            "mutation_overlap",
+            "00000067"
+        ],
+        [
+            "frequency",
+            "00000068"
+        ],
+        [
+            "mutation_overlap",
+            "00000069"
+        ],
+        [
+            "frequency",
+            "00000070"
+        ],
+        [
+            "mutation_overlap",
+            "00000071"
+        ],
+        [
+            "frequency",
+            "00000072"
+        ],
+        [
+            "mutation_overlap",
+            "00000073"
+        ],
+        [
+            "frequency",
+            "00000074"
+        ],
+        [
+            "mutation_overlap",
+            "00000075"
+        ],
+        [
+            "frequency",
+            "00000076"
+        ],
+        [
+            "frequency",
+            "00000106"
+        ],
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0749": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0752": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0755": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0758": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0760": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0762": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0764": [
+        [
+            "mutation_overlap",
+            "00000063"
+        ]
+    ],
+    "workflow_infile_0768": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0770": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0772": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0774": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0776": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0778": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0780": [
+        [
+            "frequency",
+            "00000064"
+        ]
+    ],
+    "workflow_infile_0781": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0783": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0785": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0787": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0789": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0791": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0793": [
+        [
+            "mutation_overlap",
+            "00000065"
+        ]
+    ],
+    "workflow_infile_0795": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0797": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0799": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0801": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0803": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0805": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0807": [
+        [
+            "frequency",
+            "00000066"
+        ]
+    ],
+    "workflow_infile_0809": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0811": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0813": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0815": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0817": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0819": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0821": [
+        [
+            "mutation_overlap",
+            "00000067"
+        ]
+    ],
+    "workflow_infile_0823": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0825": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0827": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0829": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0831": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0833": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0835": [
+        [
+            "frequency",
+            "00000068"
+        ]
+    ],
+    "workflow_infile_0837": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0839": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0841": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0843": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0845": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0847": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0849": [
+        [
+            "mutation_overlap",
+            "00000069"
+        ]
+    ],
+    "workflow_infile_0851": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0853": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0855": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0857": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0859": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0861": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0863": [
+        [
+            "frequency",
+            "00000070"
+        ]
+    ],
+    "workflow_infile_0865": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0867": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0869": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0871": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0873": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0875": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0877": [
+        [
+            "mutation_overlap",
+            "00000071"
+        ]
+    ],
+    "workflow_infile_0879": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0881": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0883": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0885": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0887": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0889": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0891": [
+        [
+            "frequency",
+            "00000072"
+        ]
+    ],
+    "workflow_infile_0893": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0895": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0897": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0899": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0902": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0904": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0908": [
+        [
+            "mutation_overlap",
+            "00000073"
+        ]
+    ],
+    "workflow_infile_0912": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0914": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0916": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0918": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0921": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0924": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0922": [
+        [
+            "frequency",
+            "00000074"
+        ]
+    ],
+    "workflow_infile_0219": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0220": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0222": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0224": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0226": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0228": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0230": [
+        [
+            "mutation_overlap",
+            "00000075"
+        ]
+    ],
+    "workflow_infile_0233": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0234": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0236": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0238": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0240": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0242": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "workflow_infile_0244": [
+        [
+            "frequency",
+            "00000076"
+        ]
+    ],
+    "individuals_merge_00000035_outfile_0001.gz": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ],
+        [
+            "frequency",
+            "00000078"
+        ],
+        [
+            "mutation_overlap",
+            "00000079"
+        ],
+        [
+            "frequency",
+            "00000080"
+        ],
+        [
+            "mutation_overlap",
+            "00000081"
+        ],
+        [
+            "frequency",
+            "00000082"
+        ],
+        [
+            "mutation_overlap",
+            "00000083"
+        ],
+        [
+            "frequency",
+            "00000084"
+        ],
+        [
+            "mutation_overlap",
+            "00000085"
+        ],
+        [
+            "frequency",
+            "00000086"
+        ],
+        [
+            "mutation_overlap",
+            "00000087"
+        ],
+        [
+            "frequency",
+            "00000088"
+        ],
+        [
+            "mutation_overlap",
+            "00000089"
+        ],
+        [
+            "frequency",
+            "00000090"
+        ],
+        [
+            "frequency",
+            "00000108"
+        ],
+        [
+            "mutation_overlap",
+            "00000109"
+        ],
+        [
+            "mutation_overlap",
+            "00000167"
+        ],
+        [
+            "frequency",
+            "00000169"
+        ],
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "sifting_00000036_outfile_0001.txt": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ],
+        [
+            "frequency",
+            "00000078"
+        ],
+        [
+            "mutation_overlap",
+            "00000079"
+        ],
+        [
+            "frequency",
+            "00000080"
+        ],
+        [
+            "mutation_overlap",
+            "00000081"
+        ],
+        [
+            "frequency",
+            "00000082"
+        ],
+        [
+            "mutation_overlap",
+            "00000083"
+        ],
+        [
+            "frequency",
+            "00000084"
+        ],
+        [
+            "mutation_overlap",
+            "00000085"
+        ],
+        [
+            "frequency",
+            "00000086"
+        ],
+        [
+            "mutation_overlap",
+            "00000087"
+        ],
+        [
+            "frequency",
+            "00000088"
+        ],
+        [
+            "mutation_overlap",
+            "00000089"
+        ],
+        [
+            "frequency",
+            "00000090"
+        ],
+        [
+            "frequency",
+            "00000108"
+        ],
+        [
+            "mutation_overlap",
+            "00000109"
+        ],
+        [
+            "mutation_overlap",
+            "00000167"
+        ],
+        [
+            "frequency",
+            "00000169"
+        ],
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0299": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0300": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0302": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0303": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0304": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0305": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0307": [
+        [
+            "mutation_overlap",
+            "00000077"
+        ]
+    ],
+    "workflow_infile_0312": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0314": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0316": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0317": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0318": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0319": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0321": [
+        [
+            "frequency",
+            "00000078"
+        ]
+    ],
+    "workflow_infile_0326": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0328": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0330": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0331": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0332": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0333": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0335": [
+        [
+            "mutation_overlap",
+            "00000079"
+        ]
+    ],
+    "workflow_infile_0340": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0342": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0344": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0345": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0346": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0347": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0349": [
+        [
+            "frequency",
+            "00000080"
+        ]
+    ],
+    "workflow_infile_0354": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0356": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0358": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0359": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0360": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0361": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0363": [
+        [
+            "mutation_overlap",
+            "00000081"
+        ]
+    ],
+    "workflow_infile_0368": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0370": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0372": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0373": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0374": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0375": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0377": [
+        [
+            "frequency",
+            "00000082"
+        ]
+    ],
+    "workflow_infile_0382": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0384": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0386": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0387": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0388": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0389": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0391": [
+        [
+            "mutation_overlap",
+            "00000083"
+        ]
+    ],
+    "workflow_infile_0396": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0398": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0400": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0401": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0402": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0403": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0405": [
+        [
+            "frequency",
+            "00000084"
+        ]
+    ],
+    "workflow_infile_0410": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0412": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0414": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0415": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0416": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0417": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0419": [
+        [
+            "mutation_overlap",
+            "00000085"
+        ]
+    ],
+    "workflow_infile_0424": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0426": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0428": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0430": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0432": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0431": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0001": [
+        [
+            "frequency",
+            "00000086"
+        ]
+    ],
+    "workflow_infile_0002": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0003": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0004": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0005": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0006": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0007": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0008": [
+        [
+            "mutation_overlap",
+            "00000087"
+        ]
+    ],
+    "workflow_infile_0009": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0010": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0011": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0012": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0013": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0014": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0015": [
+        [
+            "frequency",
+            "00000088"
+        ]
+    ],
+    "workflow_infile_0016": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0017": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0018": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0019": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0020": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0021": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0022": [
+        [
+            "mutation_overlap",
+            "00000089"
+        ]
+    ],
+    "workflow_infile_0023": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0024": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0025": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0026": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0027": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0028": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "workflow_infile_0029": [
+        [
+            "frequency",
+            "00000090"
+        ]
+    ],
+    "individuals_merge_00000047_outfile_0001.gz": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ],
+        [
+            "frequency",
+            "00000092"
+        ],
+        [
+            "mutation_overlap",
+            "00000093"
+        ],
+        [
+            "frequency",
+            "00000094"
+        ],
+        [
+            "mutation_overlap",
+            "00000095"
+        ],
+        [
+            "frequency",
+            "00000096"
+        ],
+        [
+            "mutation_overlap",
+            "00000097"
+        ],
+        [
+            "frequency",
+            "00000098"
+        ],
+        [
+            "mutation_overlap",
+            "00000099"
+        ],
+        [
+            "frequency",
+            "00000100"
+        ],
+        [
+            "mutation_overlap",
+            "00000101"
+        ],
+        [
+            "frequency",
+            "00000102"
+        ],
+        [
+            "mutation_overlap",
+            "00000103"
+        ],
+        [
+            "frequency",
+            "00000104"
+        ],
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "sifting_00000048_outfile_0001.txt": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ],
+        [
+            "frequency",
+            "00000092"
+        ],
+        [
+            "mutation_overlap",
+            "00000093"
+        ],
+        [
+            "frequency",
+            "00000094"
+        ],
+        [
+            "mutation_overlap",
+            "00000095"
+        ],
+        [
+            "frequency",
+            "00000096"
+        ],
+        [
+            "mutation_overlap",
+            "00000097"
+        ],
+        [
+            "frequency",
+            "00000098"
+        ],
+        [
+            "mutation_overlap",
+            "00000099"
+        ],
+        [
+            "frequency",
+            "00000100"
+        ],
+        [
+            "mutation_overlap",
+            "00000101"
+        ],
+        [
+            "frequency",
+            "00000102"
+        ],
+        [
+            "mutation_overlap",
+            "00000103"
+        ],
+        [
+            "frequency",
+            "00000104"
+        ],
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0053": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0054": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0055": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0056": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0057": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0058": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0059": [
+        [
+            "mutation_overlap",
+            "00000091"
+        ]
+    ],
+    "workflow_infile_0060": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0061": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0062": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0063": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0064": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0065": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0066": [
+        [
+            "frequency",
+            "00000092"
+        ]
+    ],
+    "workflow_infile_0067": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0068": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0069": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0070": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0071": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0072": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0073": [
+        [
+            "mutation_overlap",
+            "00000093"
+        ]
+    ],
+    "workflow_infile_0074": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0075": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0076": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0077": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0078": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0079": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0080": [
+        [
+            "frequency",
+            "00000094"
+        ]
+    ],
+    "workflow_infile_0081": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0082": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0083": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0084": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0085": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0086": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0087": [
+        [
+            "mutation_overlap",
+            "00000095"
+        ]
+    ],
+    "workflow_infile_0088": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0089": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0090": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0091": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0092": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0093": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0094": [
+        [
+            "frequency",
+            "00000096"
+        ]
+    ],
+    "workflow_infile_0095": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0096": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0097": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0098": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0099": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0100": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0101": [
+        [
+            "mutation_overlap",
+            "00000097"
+        ]
+    ],
+    "workflow_infile_0102": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0103": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0104": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0105": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0106": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0107": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0108": [
+        [
+            "frequency",
+            "00000098"
+        ]
+    ],
+    "workflow_infile_0109": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0433": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0434": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0436": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0438": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0440": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0442": [
+        [
+            "mutation_overlap",
+            "00000099"
+        ]
+    ],
+    "workflow_infile_0446": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0447": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0448": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0450": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0452": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0454": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0456": [
+        [
+            "frequency",
+            "00000100"
+        ]
+    ],
+    "workflow_infile_0460": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0461": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0462": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0464": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0466": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0468": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0470": [
+        [
+            "mutation_overlap",
+            "00000101"
+        ]
+    ],
+    "workflow_infile_0474": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0475": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0476": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0478": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0480": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0482": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0484": [
+        [
+            "frequency",
+            "00000102"
+        ]
+    ],
+    "workflow_infile_0488": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0489": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0490": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0492": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0494": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0496": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0498": [
+        [
+            "mutation_overlap",
+            "00000103"
+        ]
+    ],
+    "workflow_infile_0502": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0503": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0504": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0506": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0508": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0510": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "workflow_infile_0512": [
+        [
+            "frequency",
+            "00000104"
+        ]
+    ],
+    "individuals_merge_00000145_outfile_0001.gz": [
+        [
+            "frequency",
+            "00000105"
+        ],
+        [
+            "mutation_overlap",
+            "00000137"
+        ],
+        [
+            "mutation_overlap",
+            "00000139"
+        ],
+        [
+            "frequency",
+            "00000140"
+        ],
+        [
+            "frequency",
+            "00000142"
+        ],
+        [
+            "mutation_overlap",
+            "00000143"
+        ],
+        [
+            "frequency",
+            "00000146"
+        ],
+        [
+            "mutation_overlap",
+            "00000150"
+        ],
+        [
+            "mutation_overlap",
+            "00000151"
+        ],
+        [
+            "frequency",
+            "00000154"
+        ],
+        [
+            "mutation_overlap",
+            "00000155"
+        ],
+        [
+            "mutation_overlap",
+            "00000157"
+        ],
+        [
+            "frequency",
+            "00000158"
+        ],
+        [
+            "mutation_overlap",
+            "00000159"
+        ],
+        [
+            "frequency",
+            "00000163"
+        ],
+        [
+            "mutation_overlap",
+            "00000164"
+        ],
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "sifting_00000160_outfile_0001.txt": [
+        [
+            "frequency",
+            "00000105"
+        ],
+        [
+            "mutation_overlap",
+            "00000137"
+        ],
+        [
+            "mutation_overlap",
+            "00000139"
+        ],
+        [
+            "frequency",
+            "00000140"
+        ],
+        [
+            "frequency",
+            "00000142"
+        ],
+        [
+            "mutation_overlap",
+            "00000143"
+        ],
+        [
+            "frequency",
+            "00000146"
+        ],
+        [
+            "mutation_overlap",
+            "00000150"
+        ],
+        [
+            "mutation_overlap",
+            "00000151"
+        ],
+        [
+            "frequency",
+            "00000154"
+        ],
+        [
+            "mutation_overlap",
+            "00000155"
+        ],
+        [
+            "mutation_overlap",
+            "00000157"
+        ],
+        [
+            "frequency",
+            "00000158"
+        ],
+        [
+            "mutation_overlap",
+            "00000159"
+        ],
+        [
+            "frequency",
+            "00000163"
+        ],
+        [
+            "mutation_overlap",
+            "00000164"
+        ],
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0569": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0571": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0573": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0575": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0576": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0577": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "workflow_infile_0578": [
+        [
+            "frequency",
+            "00000105"
+        ]
+    ],
+    "sifting_00000172_outfile_0001.txt": [
+        [
+            "frequency",
+            "00000106"
+        ],
+        [
+            "mutation_overlap",
+            "00000107"
+        ],
+        [
+            "frequency",
+            "00000171"
+        ],
+        [
+            "frequency",
+            "00000174"
+        ],
+        [
+            "mutation_overlap",
+            "00000175"
+        ],
+        [
+            "frequency",
+            "00000176"
+        ],
+        [
+            "mutation_overlap",
+            "00000178"
+        ],
+        [
+            "frequency",
+            "00000179"
+        ],
+        [
+            "mutation_overlap",
+            "00000180"
+        ],
+        [
+            "mutation_overlap",
+            "00000183"
+        ],
+        [
+            "mutation_overlap",
+            "00000184"
+        ],
+        [
+            "frequency",
+            "00000187"
+        ],
+        [
+            "frequency",
+            "00000188"
+        ],
+        [
+            "frequency",
+            "00000190"
+        ],
+        [
+            "mutation_overlap",
+            "00000194"
+        ],
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "individuals_merge_00000185_outfile_0001.gz": [
+        [
+            "frequency",
+            "00000106"
+        ],
+        [
+            "mutation_overlap",
+            "00000107"
+        ],
+        [
+            "frequency",
+            "00000171"
+        ],
+        [
+            "frequency",
+            "00000174"
+        ],
+        [
+            "mutation_overlap",
+            "00000175"
+        ],
+        [
+            "frequency",
+            "00000176"
+        ],
+        [
+            "mutation_overlap",
+            "00000178"
+        ],
+        [
+            "frequency",
+            "00000179"
+        ],
+        [
+            "mutation_overlap",
+            "00000180"
+        ],
+        [
+            "mutation_overlap",
+            "00000183"
+        ],
+        [
+            "mutation_overlap",
+            "00000184"
+        ],
+        [
+            "frequency",
+            "00000187"
+        ],
+        [
+            "frequency",
+            "00000188"
+        ],
+        [
+            "frequency",
+            "00000190"
+        ],
+        [
+            "mutation_overlap",
+            "00000194"
+        ],
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0635": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0636": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0638": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0640": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0642": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0645": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0648": [
+        [
+            "frequency",
+            "00000106"
+        ]
+    ],
+    "workflow_infile_0221": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0223": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0225": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0227": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0229": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0231": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0232": [
+        [
+            "mutation_overlap",
+            "00000107"
+        ]
+    ],
+    "workflow_infile_0235": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0237": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0239": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0241": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0243": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0245": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0246": [
+        [
+            "frequency",
+            "00000108"
+        ]
+    ],
+    "workflow_infile_0248": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0249": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0251": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0253": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0254": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0256": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "workflow_infile_0258": [
+        [
+            "mutation_overlap",
+            "00000109"
+        ]
+    ],
+    "individuals_merge_00000122_outfile_0001.gz": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ],
+        [
+            "frequency",
+            "00000112"
+        ],
+        [
+            "mutation_overlap",
+            "00000113"
+        ],
+        [
+            "mutation_overlap",
+            "00000114"
+        ],
+        [
+            "frequency",
+            "00000115"
+        ],
+        [
+            "mutation_overlap",
+            "00000116"
+        ],
+        [
+            "frequency",
+            "00000117"
+        ],
+        [
+            "frequency",
+            "00000119"
+        ],
+        [
+            "mutation_overlap",
+            "00000123"
+        ],
+        [
+            "mutation_overlap",
+            "00000124"
+        ],
+        [
+            "mutation_overlap",
+            "00000126"
+        ],
+        [
+            "frequency",
+            "00000132"
+        ],
+        [
+            "frequency",
+            "00000133"
+        ],
+        [
+            "mutation_overlap",
+            "00000134"
+        ],
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "sifting_00000130_outfile_0001.txt": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ],
+        [
+            "frequency",
+            "00000112"
+        ],
+        [
+            "mutation_overlap",
+            "00000113"
+        ],
+        [
+            "mutation_overlap",
+            "00000114"
+        ],
+        [
+            "frequency",
+            "00000115"
+        ],
+        [
+            "mutation_overlap",
+            "00000116"
+        ],
+        [
+            "frequency",
+            "00000117"
+        ],
+        [
+            "frequency",
+            "00000119"
+        ],
+        [
+            "mutation_overlap",
+            "00000123"
+        ],
+        [
+            "mutation_overlap",
+            "00000124"
+        ],
+        [
+            "mutation_overlap",
+            "00000126"
+        ],
+        [
+            "frequency",
+            "00000132"
+        ],
+        [
+            "frequency",
+            "00000133"
+        ],
+        [
+            "mutation_overlap",
+            "00000134"
+        ],
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0306": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0308": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0309": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0310": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0311": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0313": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0315": [
+        [
+            "mutation_overlap",
+            "00000110"
+        ]
+    ],
+    "workflow_infile_0263.txt": [
+        [
+            "individuals",
+            "00000111"
+        ]
+    ],
+    "workflow_infile_0264.vcf": [
+        [
+            "individuals",
+            "00000111"
+        ]
+    ],
+    "workflow_infile_0320": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0322": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0323": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0324": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0325": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0327": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0329": [
+        [
+            "frequency",
+            "00000112"
+        ]
+    ],
+    "workflow_infile_0334": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0336": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0337": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0338": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0339": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0341": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0343": [
+        [
+            "mutation_overlap",
+            "00000113"
+        ]
+    ],
+    "workflow_infile_0348": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0350": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0351": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0352": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0353": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0355": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0357": [
+        [
+            "mutation_overlap",
+            "00000114"
+        ]
+    ],
+    "workflow_infile_0362": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0364": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0365": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0366": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0367": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0369": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0371": [
+        [
+            "frequency",
+            "00000115"
+        ]
+    ],
+    "workflow_infile_0376": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0378": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0379": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0380": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0381": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0383": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0385": [
+        [
+            "mutation_overlap",
+            "00000116"
+        ]
+    ],
+    "workflow_infile_0390": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0392": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0393": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0394": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0395": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0397": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0399": [
+        [
+            "frequency",
+            "00000117"
+        ]
+    ],
+    "workflow_infile_0265.txt": [
+        [
+            "individuals",
+            "00000118"
+        ]
+    ],
+    "workflow_infile_0268.vcf": [
+        [
+            "individuals",
+            "00000118"
+        ]
+    ],
+    "workflow_infile_0404": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0406": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0407": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0408": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0409": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0411": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0413": [
+        [
+            "frequency",
+            "00000119"
+        ]
+    ],
+    "workflow_infile_0271.txt": [
+        [
+            "individuals",
+            "00000120"
+        ]
+    ],
+    "workflow_infile_0272.vcf": [
+        [
+            "individuals",
+            "00000120"
+        ]
+    ],
+    "workflow_infile_0274.txt": [
+        [
+            "individuals",
+            "00000121"
+        ]
+    ],
+    "workflow_infile_0276.vcf": [
+        [
+            "individuals",
+            "00000121"
+        ]
+    ],
+    "individuals_00000111_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000118_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000120_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000121_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000125_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000127_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000128_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000129_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000131_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "individuals_00000135_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000122"
+        ]
+    ],
+    "workflow_infile_0418": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0420": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0421": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0422": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0423": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0425": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0427": [
+        [
+            "mutation_overlap",
+            "00000123"
+        ]
+    ],
+    "workflow_infile_0429": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0649": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0651": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0653": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0655": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0658": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0661": [
+        [
+            "mutation_overlap",
+            "00000124"
+        ]
+    ],
+    "workflow_infile_0278.txt": [
+        [
+            "individuals",
+            "00000125"
+        ]
+    ],
+    "workflow_infile_0280.vcf": [
+        [
+            "individuals",
+            "00000125"
+        ]
+    ],
+    "workflow_infile_0667": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0669": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0671": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0672": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0675": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0677": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0679": [
+        [
+            "mutation_overlap",
+            "00000126"
+        ]
+    ],
+    "workflow_infile_0282.txt": [
+        [
+            "individuals",
+            "00000127"
+        ]
+    ],
+    "workflow_infile_0284.vcf": [
+        [
+            "individuals",
+            "00000127"
+        ]
+    ],
+    "workflow_infile_0286.txt": [
+        [
+            "individuals",
+            "00000128"
+        ]
+    ],
+    "workflow_infile_0288.vcf": [
+        [
+            "individuals",
+            "00000128"
+        ]
+    ],
+    "workflow_infile_0289.txt": [
+        [
+            "individuals",
+            "00000129"
+        ]
+    ],
+    "workflow_infile_0292.vcf": [
+        [
+            "individuals",
+            "00000129"
+        ]
+    ],
+    "workflow_infile_0301.vcf": [
+        [
+            "sifting",
+            "00000130"
+        ]
+    ],
+    "workflow_infile_0293.txt": [
+        [
+            "individuals",
+            "00000131"
+        ]
+    ],
+    "workflow_infile_0295.vcf": [
+        [
+            "individuals",
+            "00000131"
+        ]
+    ],
+    "workflow_infile_0688": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0690": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0691": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0694": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0695": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0697": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0701": [
+        [
+            "frequency",
+            "00000132"
+        ]
+    ],
+    "workflow_infile_0708": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0710": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0713": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0714": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0715": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0719": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0721": [
+        [
+            "frequency",
+            "00000133"
+        ]
+    ],
+    "workflow_infile_0728": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0731": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0732": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0733": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0734": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0736": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0738": [
+        [
+            "mutation_overlap",
+            "00000134"
+        ]
+    ],
+    "workflow_infile_0296.txt": [
+        [
+            "individuals",
+            "00000135"
+        ]
+    ],
+    "workflow_infile_0297.vcf": [
+        [
+            "individuals",
+            "00000135"
+        ]
+    ],
+    "workflow_infile_0743": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0745": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0747": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0748": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0750": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0753": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0756": [
+        [
+            "frequency",
+            "00000136"
+        ]
+    ],
+    "workflow_infile_0766": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0767": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0769": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0771": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0773": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0775": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0777": [
+        [
+            "mutation_overlap",
+            "00000137"
+        ]
+    ],
+    "workflow_infile_0125.txt": [
+        [
+            "individuals",
+            "00000138"
+        ]
+    ],
+    "workflow_infile_0126.vcf": [
+        [
+            "individuals",
+            "00000138"
+        ]
+    ],
+    "workflow_infile_0782": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0784": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0786": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0788": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0790": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0792": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0794": [
+        [
+            "mutation_overlap",
+            "00000139"
+        ]
+    ],
+    "workflow_infile_0796": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0798": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0800": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0802": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0804": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0806": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0808": [
+        [
+            "frequency",
+            "00000140"
+        ]
+    ],
+    "workflow_infile_0516.txt": [
+        [
+            "individuals",
+            "00000141"
+        ]
+    ],
+    "workflow_infile_0518.vcf": [
+        [
+            "individuals",
+            "00000141"
+        ]
+    ],
+    "workflow_infile_0810": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0812": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0814": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0816": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0818": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0820": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0822": [
+        [
+            "frequency",
+            "00000142"
+        ]
+    ],
+    "workflow_infile_0824": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0826": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0828": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0830": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0832": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0834": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0836": [
+        [
+            "mutation_overlap",
+            "00000143"
+        ]
+    ],
+    "workflow_infile_0519.txt": [
+        [
+            "individuals",
+            "00000144"
+        ]
+    ],
+    "workflow_infile_0523.vcf": [
+        [
+            "individuals",
+            "00000144"
+        ]
+    ],
+    "individuals_00000141_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000144_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000147_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000148_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000149_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000152_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000153_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000156_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000161_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "individuals_00000162_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000145"
+        ]
+    ],
+    "workflow_infile_0838": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0840": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0842": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0844": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0846": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0848": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0850": [
+        [
+            "frequency",
+            "00000146"
+        ]
+    ],
+    "workflow_infile_0525.txt": [
+        [
+            "individuals",
+            "00000147"
+        ]
+    ],
+    "workflow_infile_0528.vcf": [
+        [
+            "individuals",
+            "00000147"
+        ]
+    ],
+    "workflow_infile_0529.txt": [
+        [
+            "individuals",
+            "00000148"
+        ]
+    ],
+    "workflow_infile_0530.vcf": [
+        [
+            "individuals",
+            "00000148"
+        ]
+    ],
+    "workflow_infile_0531.txt": [
+        [
+            "individuals",
+            "00000149"
+        ]
+    ],
+    "workflow_infile_0535.vcf": [
+        [
+            "individuals",
+            "00000149"
+        ]
+    ],
+    "workflow_infile_0852": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0854": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0856": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0858": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0860": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0862": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0864": [
+        [
+            "mutation_overlap",
+            "00000150"
+        ]
+    ],
+    "workflow_infile_0866": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0868": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0870": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0872": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0874": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0876": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0878": [
+        [
+            "mutation_overlap",
+            "00000151"
+        ]
+    ],
+    "workflow_infile_0536.txt": [
+        [
+            "individuals",
+            "00000152"
+        ]
+    ],
+    "workflow_infile_0540.vcf": [
+        [
+            "individuals",
+            "00000152"
+        ]
+    ],
+    "workflow_infile_0541.txt": [
+        [
+            "individuals",
+            "00000153"
+        ]
+    ],
+    "workflow_infile_0543.vcf": [
+        [
+            "individuals",
+            "00000153"
+        ]
+    ],
+    "workflow_infile_0880": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0882": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0884": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0886": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0888": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0890": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0892": [
+        [
+            "frequency",
+            "00000154"
+        ]
+    ],
+    "workflow_infile_0894": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0896": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0898": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0900": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0903": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0906": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0909": [
+        [
+            "mutation_overlap",
+            "00000155"
+        ]
+    ],
+    "workflow_infile_0544.txt": [
+        [
+            "individuals",
+            "00000156"
+        ]
+    ],
+    "workflow_infile_0547.vcf": [
+        [
+            "individuals",
+            "00000156"
+        ]
+    ],
+    "workflow_infile_0913": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0915": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0917": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0919": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0923": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0925": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0920": [
+        [
+            "mutation_overlap",
+            "00000157"
+        ]
+    ],
+    "workflow_infile_0435": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0437": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0439": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0441": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0443": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0444": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0445": [
+        [
+            "frequency",
+            "00000158"
+        ]
+    ],
+    "workflow_infile_0449": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0451": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0453": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0455": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0457": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0458": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0459": [
+        [
+            "mutation_overlap",
+            "00000159"
+        ]
+    ],
+    "workflow_infile_0564.vcf": [
+        [
+            "sifting",
+            "00000160"
+        ]
+    ],
+    "workflow_infile_0548.txt": [
+        [
+            "individuals",
+            "00000161"
+        ]
+    ],
+    "workflow_infile_0552.vcf": [
+        [
+            "individuals",
+            "00000161"
+        ]
+    ],
+    "workflow_infile_0553.txt": [
+        [
+            "individuals",
+            "00000162"
+        ]
+    ],
+    "workflow_infile_0556.vcf": [
+        [
+            "individuals",
+            "00000162"
+        ]
+    ],
+    "workflow_infile_0463": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0465": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0467": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0469": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0471": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0472": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0473": [
+        [
+            "frequency",
+            "00000163"
+        ]
+    ],
+    "workflow_infile_0477": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0479": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0481": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0483": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0485": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0486": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0487": [
+        [
+            "mutation_overlap",
+            "00000164"
+        ]
+    ],
+    "workflow_infile_0491": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0493": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0495": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0497": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0499": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0500": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0501": [
+        [
+            "frequency",
+            "00000165"
+        ]
+    ],
+    "workflow_infile_0287.txt": [
+        [
+            "individuals",
+            "00000166"
+        ]
+    ],
+    "workflow_infile_0290.vcf": [
+        [
+            "individuals",
+            "00000166"
+        ]
+    ],
+    "workflow_infile_0505": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0507": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0509": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0511": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0513": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0514": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0515": [
+        [
+            "mutation_overlap",
+            "00000167"
+        ]
+    ],
+    "workflow_infile_0050.txt": [
+        [
+            "individuals",
+            "00000168"
+        ]
+    ],
+    "workflow_infile_0051.vcf": [
+        [
+            "individuals",
+            "00000168"
+        ]
+    ],
+    "workflow_infile_0517": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0520": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0521": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0522": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0524": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0526": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0527": [
+        [
+            "frequency",
+            "00000169"
+        ]
+    ],
+    "workflow_infile_0587.txt": [
+        [
+            "individuals",
+            "00000170"
+        ]
+    ],
+    "workflow_infile_0588.vcf": [
+        [
+            "individuals",
+            "00000170"
+        ]
+    ],
+    "workflow_infile_0532": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0533": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0534": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0537": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0538": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0539": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0542": [
+        [
+            "frequency",
+            "00000171"
+        ]
+    ],
+    "workflow_infile_0583.vcf": [
+        [
+            "sifting",
+            "00000172"
+        ]
+    ],
+    "workflow_infile_0589.txt": [
+        [
+            "individuals",
+            "00000173"
+        ]
+    ],
+    "workflow_infile_0592.vcf": [
+        [
+            "individuals",
+            "00000173"
+        ]
+    ],
+    "workflow_infile_0545": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0546": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0549": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0550": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0551": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0554": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0555": [
+        [
+            "frequency",
+            "00000174"
+        ]
+    ],
+    "workflow_infile_0557": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0558": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0559": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0560": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0561": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0562": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0563": [
+        [
+            "mutation_overlap",
+            "00000175"
+        ]
+    ],
+    "workflow_infile_0565": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0566": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0567": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0568": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0570": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0572": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0574": [
+        [
+            "frequency",
+            "00000176"
+        ]
+    ],
+    "workflow_infile_0593.txt": [
+        [
+            "individuals",
+            "00000177"
+        ]
+    ],
+    "workflow_infile_0597.vcf": [
+        [
+            "individuals",
+            "00000177"
+        ]
+    ],
+    "workflow_infile_0579": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0580": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0581": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0582": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0584": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0585": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0586": [
+        [
+            "mutation_overlap",
+            "00000178"
+        ]
+    ],
+    "workflow_infile_0590": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0591": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0594": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0595": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0596": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0598": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0600": [
+        [
+            "frequency",
+            "00000179"
+        ]
+    ],
+    "workflow_infile_0603": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0605": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0607": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0608": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0610": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0612": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0613": [
+        [
+            "mutation_overlap",
+            "00000180"
+        ]
+    ],
+    "workflow_infile_0599.txt": [
+        [
+            "individuals",
+            "00000181"
+        ]
+    ],
+    "workflow_infile_0601.vcf": [
+        [
+            "individuals",
+            "00000181"
+        ]
+    ],
+    "workflow_infile_0602.txt": [
+        [
+            "individuals",
+            "00000182"
+        ]
+    ],
+    "workflow_infile_0604.vcf": [
+        [
+            "individuals",
+            "00000182"
+        ]
+    ],
+    "workflow_infile_0617": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0619": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0620": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0622": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0624": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0625": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0627": [
+        [
+            "mutation_overlap",
+            "00000183"
+        ]
+    ],
+    "workflow_infile_0628": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0629": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0630": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0631": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0632": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0633": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "workflow_infile_0634": [
+        [
+            "mutation_overlap",
+            "00000184"
+        ]
+    ],
+    "individuals_00000170_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000173_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000177_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000181_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000182_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000186_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000189_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000191_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000192_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "individuals_00000193_outfile_0001.gz": [
+        [
+            "individuals_merge",
+            "00000185"
+        ]
+    ],
+    "workflow_infile_0606.txt": [
+        [
+            "individuals",
+            "00000186"
+        ]
+    ],
+    "workflow_infile_0609.vcf": [
+        [
+            "individuals",
+            "00000186"
+        ]
+    ],
+    "workflow_infile_0637": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0639": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0641": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0643": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0646": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0647": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0644": [
+        [
+            "frequency",
+            "00000187"
+        ]
+    ],
+    "workflow_infile_0656": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0659": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0662": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0664": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0665": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0666": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0668": [
+        [
+            "frequency",
+            "00000188"
+        ]
+    ],
+    "workflow_infile_0611.txt": [
+        [
+            "individuals",
+            "00000189"
+        ]
+    ],
+    "workflow_infile_0614.vcf": [
+        [
+            "individuals",
+            "00000189"
+        ]
+    ],
+    "workflow_infile_0676": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0678": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0680": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0683": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0684": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0685": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0689": [
+        [
+            "frequency",
+            "00000190"
+        ]
+    ],
+    "workflow_infile_0615.txt": [
+        [
+            "individuals",
+            "00000191"
+        ]
+    ],
+    "workflow_infile_0616.vcf": [
+        [
+            "individuals",
+            "00000191"
+        ]
+    ],
+    "workflow_infile_0618.txt": [
+        [
+            "individuals",
+            "00000192"
+        ]
+    ],
+    "workflow_infile_0621.vcf": [
+        [
+            "individuals",
+            "00000192"
+        ]
+    ],
+    "workflow_infile_0623.txt": [
+        [
+            "individuals",
+            "00000193"
+        ]
+    ],
+    "workflow_infile_0626.vcf": [
+        [
+            "individuals",
+            "00000193"
+        ]
+    ],
+    "workflow_infile_0696": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0698": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0702": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0703": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0704": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0707": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0709": [
+        [
+            "mutation_overlap",
+            "00000194"
+        ]
+    ],
+    "workflow_infile_0716": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0720": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0722": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0723": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0726": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0727": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0729": [
+        [
+            "mutation_overlap",
+            "00000195"
+        ]
+    ],
+    "workflow_infile_0735": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0737": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0739": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0740": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0741": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0742": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0744": [
+        [
+            "frequency",
+            "00000196"
+        ]
+    ],
+    "workflow_infile_0751": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0754": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0757": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0759": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0761": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0763": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0765": [
+        [
+            "mutation_overlap",
+            "00000197"
+        ]
+    ],
+    "workflow_infile_0291.txt": [
+        [
+            "individuals",
+            "00000198"
+        ]
+    ],
+    "workflow_infile_0294.vcf": [
+        [
+            "individuals",
+            "00000198"
+        ]
+    ]
+}

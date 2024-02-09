@@ -1,0 +1,298 @@
+{
+    "00000001": {
+        "out": "\\\"individuals_00000001_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000002": {
+        "out": "\\\"individuals_00000002_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000003": {
+        "out": "\\\"individuals_00000003_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000004": {
+        "out": "\\\"individuals_00000004_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000005": {
+        "out": "\\\"individuals_00000005_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000006": {
+        "out": "\\\"individuals_00000006_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000007": {
+        "out": "\\\"individuals_00000007_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000008": {
+        "out": "\\\"individuals_00000008_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000009": {
+        "out": "\\\"individuals_00000009_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000010": {
+        "out": "\\\"individuals_00000010_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000013": {
+        "out": "\\\"individuals_00000013_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000014": {
+        "out": "\\\"individuals_00000014_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000015": {
+        "out": "\\\"individuals_00000015_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000016": {
+        "out": "\\\"individuals_00000016_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000017": {
+        "out": "\\\"individuals_00000017_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000018": {
+        "out": "\\\"individuals_00000018_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000019": {
+        "out": "\\\"individuals_00000019_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000020": {
+        "out": "\\\"individuals_00000020_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000021": {
+        "out": "\\\"individuals_00000021_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000022": {
+        "out": "\\\"individuals_00000022_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000025": {
+        "out": "\\\"individuals_00000025_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000026": {
+        "out": "\\\"individuals_00000026_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000027": {
+        "out": "\\\"individuals_00000027_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000028": {
+        "out": "\\\"individuals_00000028_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000029": {
+        "out": "\\\"individuals_00000029_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000030": {
+        "out": "\\\"individuals_00000030_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000031": {
+        "out": "\\\"individuals_00000031_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000032": {
+        "out": "\\\"individuals_00000032_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000033": {
+        "out": "\\\"individuals_00000033_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000034": {
+        "out": "\\\"individuals_00000034_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000037": {
+        "out": "\\\"individuals_00000037_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000038": {
+        "out": "\\\"individuals_00000038_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000039": {
+        "out": "\\\"individuals_00000039_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000040": {
+        "out": "\\\"individuals_00000040_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000041": {
+        "out": "\\\"individuals_00000041_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000042": {
+        "out": "\\\"individuals_00000042_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000043": {
+        "out": "\\\"individuals_00000043_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000044": {
+        "out": "\\\"individuals_00000044_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000045": {
+        "out": "\\\"individuals_00000045_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000046": {
+        "out": "\\\"individuals_00000046_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000111": {
+        "out": "\\\"individuals_00000111_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000118": {
+        "out": "\\\"individuals_00000118_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000120": {
+        "out": "\\\"individuals_00000120_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000121": {
+        "out": "\\\"individuals_00000121_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000125": {
+        "out": "\\\"individuals_00000125_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000127": {
+        "out": "\\\"individuals_00000127_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000128": {
+        "out": "\\\"individuals_00000128_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000129": {
+        "out": "\\\"individuals_00000129_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000131": {
+        "out": "\\\"individuals_00000131_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000135": {
+        "out": "\\\"individuals_00000135_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000138": {
+        "out": "\\\"individuals_00000138_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000141": {
+        "out": "\\\"individuals_00000141_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000144": {
+        "out": "\\\"individuals_00000144_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000147": {
+        "out": "\\\"individuals_00000147_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000148": {
+        "out": "\\\"individuals_00000148_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000149": {
+        "out": "\\\"individuals_00000149_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000152": {
+        "out": "\\\"individuals_00000152_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000153": {
+        "out": "\\\"individuals_00000153_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000156": {
+        "out": "\\\"individuals_00000156_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000161": {
+        "out": "\\\"individuals_00000161_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000162": {
+        "out": "\\\"individuals_00000162_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000166": {
+        "out": "\\\"individuals_00000166_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000168": {
+        "out": "\\\"individuals_00000168_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000170": {
+        "out": "\\\"individuals_00000170_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000173": {
+        "out": "\\\"individuals_00000173_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000177": {
+        "out": "\\\"individuals_00000177_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000181": {
+        "out": "\\\"individuals_00000181_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000182": {
+        "out": "\\\"individuals_00000182_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000186": {
+        "out": "\\\"individuals_00000186_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000189": {
+        "out": "\\\"individuals_00000189_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000191": {
+        "out": "\\\"individuals_00000191_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000192": {
+        "out": "\\\"individuals_00000192_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000193": {
+        "out": "\\\"individuals_00000193_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    },
+    "00000198": {
+        "out": "\\\"individuals_00000198_outfile_0001.gz\\\":58195553",
+        "resources": "--percent-cpu 0.1 --cpu-work 83 --mem 1791"
+    }
+}
