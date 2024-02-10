@@ -1,0 +1,38 @@
+{
+    "00000006": {
+        "out": "\\\"indel_realign_00000006_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000006_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000022": {
+        "out": "\\\"indel_realign_00000022_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000022_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000038": {
+        "out": "\\\"indel_realign_00000038_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000038_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000054": {
+        "out": "\\\"indel_realign_00000054_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000054_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000070": {
+        "out": "\\\"indel_realign_00000070_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000070_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000117": {
+        "out": "\\\"indel_realign_00000117_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000117_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000144": {
+        "out": "\\\"indel_realign_00000144_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000144_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000167": {
+        "out": "\\\"indel_realign_00000167_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000167_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    },
+    "00000182": {
+        "out": "\\\"indel_realign_00000182_outfile_0001.bam\\\":261843321, \\\"indel_realign_00000182_outfile_0002.bai\\\":1083104000",
+        "resources": "--percent-cpu 0.1 --cpu-work 14 --mem 318"
+    }
+}

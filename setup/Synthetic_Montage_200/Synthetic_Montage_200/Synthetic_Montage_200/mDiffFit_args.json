@@ -1,0 +1,370 @@
+{
+    "00000008": {
+        "out": "\\\"mDiffFit_00000008_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000009": {
+        "out": "\\\"mDiffFit_00000009_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000010": {
+        "out": "\\\"mDiffFit_00000010_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000011": {
+        "out": "\\\"mDiffFit_00000011_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000012": {
+        "out": "\\\"mDiffFit_00000012_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000013": {
+        "out": "\\\"mDiffFit_00000013_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000014": {
+        "out": "\\\"mDiffFit_00000014_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000015": {
+        "out": "\\\"mDiffFit_00000015_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000016": {
+        "out": "\\\"mDiffFit_00000016_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000017": {
+        "out": "\\\"mDiffFit_00000017_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000018": {
+        "out": "\\\"mDiffFit_00000018_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000019": {
+        "out": "\\\"mDiffFit_00000019_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000020": {
+        "out": "\\\"mDiffFit_00000020_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000021": {
+        "out": "\\\"mDiffFit_00000021_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000022": {
+        "out": "\\\"mDiffFit_00000022_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000042": {
+        "out": "\\\"mDiffFit_00000042_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000043": {
+        "out": "\\\"mDiffFit_00000043_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000044": {
+        "out": "\\\"mDiffFit_00000044_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000045": {
+        "out": "\\\"mDiffFit_00000045_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000046": {
+        "out": "\\\"mDiffFit_00000046_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000047": {
+        "out": "\\\"mDiffFit_00000047_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000048": {
+        "out": "\\\"mDiffFit_00000048_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000049": {
+        "out": "\\\"mDiffFit_00000049_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000050": {
+        "out": "\\\"mDiffFit_00000050_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000051": {
+        "out": "\\\"mDiffFit_00000051_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000052": {
+        "out": "\\\"mDiffFit_00000052_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000053": {
+        "out": "\\\"mDiffFit_00000053_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000054": {
+        "out": "\\\"mDiffFit_00000054_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000055": {
+        "out": "\\\"mDiffFit_00000055_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000056": {
+        "out": "\\\"mDiffFit_00000056_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000076": {
+        "out": "\\\"mDiffFit_00000076_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000077": {
+        "out": "\\\"mDiffFit_00000077_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000078": {
+        "out": "\\\"mDiffFit_00000078_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000079": {
+        "out": "\\\"mDiffFit_00000079_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000080": {
+        "out": "\\\"mDiffFit_00000080_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000081": {
+        "out": "\\\"mDiffFit_00000081_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000082": {
+        "out": "\\\"mDiffFit_00000082_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000083": {
+        "out": "\\\"mDiffFit_00000083_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000084": {
+        "out": "\\\"mDiffFit_00000084_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000085": {
+        "out": "\\\"mDiffFit_00000085_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000086": {
+        "out": "\\\"mDiffFit_00000086_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000087": {
+        "out": "\\\"mDiffFit_00000087_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000088": {
+        "out": "\\\"mDiffFit_00000088_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000089": {
+        "out": "\\\"mDiffFit_00000089_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000090": {
+        "out": "\\\"mDiffFit_00000090_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000105": {
+        "out": "\\\"mDiffFit_00000105_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000106": {
+        "out": "\\\"mDiffFit_00000106_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000108": {
+        "out": "\\\"mDiffFit_00000108_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000109": {
+        "out": "\\\"mDiffFit_00000109_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000110": {
+        "out": "\\\"mDiffFit_00000110_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000111": {
+        "out": "\\\"mDiffFit_00000111_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000113": {
+        "out": "\\\"mDiffFit_00000113_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000116": {
+        "out": "\\\"mDiffFit_00000116_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000117": {
+        "out": "\\\"mDiffFit_00000117_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000118": {
+        "out": "\\\"mDiffFit_00000118_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000120": {
+        "out": "\\\"mDiffFit_00000120_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000121": {
+        "out": "\\\"mDiffFit_00000121_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000131": {
+        "out": "\\\"mDiffFit_00000131_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000132": {
+        "out": "\\\"mDiffFit_00000132_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000134": {
+        "out": "\\\"mDiffFit_00000134_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000135": {
+        "out": "\\\"mDiffFit_00000135_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000136": {
+        "out": "\\\"mDiffFit_00000136_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000138": {
+        "out": "\\\"mDiffFit_00000138_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000139": {
+        "out": "\\\"mDiffFit_00000139_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000142": {
+        "out": "\\\"mDiffFit_00000142_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000145": {
+        "out": "\\\"mDiffFit_00000145_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000146": {
+        "out": "\\\"mDiffFit_00000146_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000150": {
+        "out": "\\\"mDiffFit_00000150_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000152": {
+        "out": "\\\"mDiffFit_00000152_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000153": {
+        "out": "\\\"mDiffFit_00000153_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000155": {
+        "out": "\\\"mDiffFit_00000155_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000157": {
+        "out": "\\\"mDiffFit_00000157_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000158": {
+        "out": "\\\"mDiffFit_00000158_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000159": {
+        "out": "\\\"mDiffFit_00000159_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000160": {
+        "out": "\\\"mDiffFit_00000160_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000161": {
+        "out": "\\\"mDiffFit_00000161_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000163": {
+        "out": "\\\"mDiffFit_00000163_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000166": {
+        "out": "\\\"mDiffFit_00000166_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000167": {
+        "out": "\\\"mDiffFit_00000167_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000168": {
+        "out": "\\\"mDiffFit_00000168_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000170": {
+        "out": "\\\"mDiffFit_00000170_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000171": {
+        "out": "\\\"mDiffFit_00000171_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000181": {
+        "out": "\\\"mDiffFit_00000181_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000182": {
+        "out": "\\\"mDiffFit_00000182_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000184": {
+        "out": "\\\"mDiffFit_00000184_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000185": {
+        "out": "\\\"mDiffFit_00000185_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000186": {
+        "out": "\\\"mDiffFit_00000186_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000188": {
+        "out": "\\\"mDiffFit_00000188_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000189": {
+        "out": "\\\"mDiffFit_00000189_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000192": {
+        "out": "\\\"mDiffFit_00000192_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000195": {
+        "out": "\\\"mDiffFit_00000195_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    },
+    "00000196": {
+        "out": "\\\"mDiffFit_00000196_outfile_0001.txt\\\":8455",
+        "resources": "--percent-cpu 0.1 --cpu-work 18 --mem 396"
+    }
+}

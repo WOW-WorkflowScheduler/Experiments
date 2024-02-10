@@ -1,0 +1,22 @@
+{
+    "00000024": {
+        "out": "\\\"mBgModel_00000024_outfile_0001.tbl\\\":1027130",
+        "resources": "--percent-cpu 0.1 --cpu-work 67 --mem 1455"
+    },
+    "00000058": {
+        "out": "\\\"mBgModel_00000058_outfile_0001.tbl\\\":1027130",
+        "resources": "--percent-cpu 0.1 --cpu-work 67 --mem 1455"
+    },
+    "00000092": {
+        "out": "\\\"mBgModel_00000092_outfile_0001.tbl\\\":1027130",
+        "resources": "--percent-cpu 0.1 --cpu-work 67 --mem 1455"
+    },
+    "00000144": {
+        "out": "\\\"mBgModel_00000144_outfile_0001.tbl\\\":1027130",
+        "resources": "--percent-cpu 0.1 --cpu-work 67 --mem 1455"
+    },
+    "00000194": {
+        "out": "\\\"mBgModel_00000194_outfile_0001.tbl\\\":1027130",
+        "resources": "--percent-cpu 0.1 --cpu-work 67 --mem 1455"
+    }
+}

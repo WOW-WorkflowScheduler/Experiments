@@ -1,0 +1,22 @@
+{
+    "00000032": {
+        "out": "\\\"mImgtbl_00000032_outfile_0001.tbl\\\":8161756",
+        "resources": "--mem 100"
+    },
+    "00000066": {
+        "out": "\\\"mImgtbl_00000066_outfile_0001.tbl\\\":8161756",
+        "resources": "--mem 100"
+    },
+    "00000100": {
+        "out": "\\\"mImgtbl_00000100_outfile_0001.tbl\\\":8161756",
+        "resources": "--mem 100"
+    },
+    "00000125": {
+        "out": "\\\"mImgtbl_00000125_outfile_0001.tbl\\\":8161756",
+        "resources": "--mem 100"
+    },
+    "00000175": {
+        "out": "\\\"mImgtbl_00000175_outfile_0001.tbl\\\":8161756",
+        "resources": "--mem 100"
+    }
+}

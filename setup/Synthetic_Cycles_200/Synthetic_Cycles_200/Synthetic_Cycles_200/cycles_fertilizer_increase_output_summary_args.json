@@ -1,0 +1,10 @@
+{
+    "00000130": {
+        "out": "\\\"cycles_fertilizer_increase_output_summary_00000130_outfile_0001.csv\\\":211477000",
+        "resources": "--mem 100"
+    },
+    "00000132": {
+        "out": "\\\"cycles_fertilizer_increase_output_summary_00000132_outfile_0001.csv\\\":211477000",
+        "resources": "--mem 100"
+    }
+}

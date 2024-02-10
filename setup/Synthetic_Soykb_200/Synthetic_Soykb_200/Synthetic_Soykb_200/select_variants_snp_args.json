@@ -1,0 +1,6 @@
+{
+    "00000093": {
+        "out": "\\\"select_variants_snp_00000093_outfile_0001.vcf\\\":73572600",
+        "resources": "--percent-cpu 0.1 --cpu-work 2 --mem 100"
+    }
+}

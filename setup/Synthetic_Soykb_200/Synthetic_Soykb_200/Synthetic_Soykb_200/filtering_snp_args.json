@@ -1,0 +1,6 @@
+{
+    "00000094": {
+        "out": "\\\"filtering_snp_00000094_outfile_0001.idx\\\":24264100, \\\"filtering_snp_00000094_outfile_0002.vcf\\\":75969600",
+        "resources": "--mem 100"
+    }
+}

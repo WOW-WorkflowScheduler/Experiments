@@ -1,0 +1,30 @@
+{
+    "00000011": {
+        "out": "\\\"individuals_merge_00000011_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000023": {
+        "out": "\\\"individuals_merge_00000023_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000035": {
+        "out": "\\\"individuals_merge_00000035_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000047": {
+        "out": "\\\"individuals_merge_00000047_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000122": {
+        "out": "\\\"individuals_merge_00000122_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000145": {
+        "out": "\\\"individuals_merge_00000145_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    },
+    "00000185": {
+        "out": "\\\"individuals_merge_00000185_outfile_0001.gz\\\":161124576",
+        "resources": "--percent-cpu 0.1 --cpu-work 500 --mem 10752"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "00000005": {
+        "out": "\\\"realign_target_creator_00000005_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000021": {
+        "out": "\\\"realign_target_creator_00000021_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000037": {
+        "out": "\\\"realign_target_creator_00000037_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000053": {
+        "out": "\\\"realign_target_creator_00000053_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000069": {
+        "out": "\\\"realign_target_creator_00000069_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000105": {
+        "out": "\\\"realign_target_creator_00000105_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000138": {
+        "out": "\\\"realign_target_creator_00000138_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000155": {
+        "out": "\\\"realign_target_creator_00000155_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    },
+    "00000175": {
+        "out": "\\\"realign_target_creator_00000175_outfile_0001.list\\\":340000",
+        "resources": "--percent-cpu 0.1 --cpu-work 33 --mem 727"
+    }
+}

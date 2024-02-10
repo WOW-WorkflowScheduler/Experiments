@@ -1,0 +1,10 @@
+{
+    "00000129": {
+        "out": "\\\"cycles_output_summary_00000129_outfile_0001.csv\\\":128683000",
+        "resources": "--percent-cpu 0.1 --cpu-work 2 --mem 100"
+    },
+    "00000131": {
+        "out": "\\\"cycles_output_summary_00000131_outfile_0001.csv\\\":128683000",
+        "resources": "--percent-cpu 0.1 --cpu-work 2 --mem 100"
+    }
+}

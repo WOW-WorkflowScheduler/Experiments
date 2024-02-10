@@ -1,0 +1,38 @@
+{
+    "00000002": {
+        "out": "\\\"sort_sam_00000002_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000002_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000018": {
+        "out": "\\\"sort_sam_00000018_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000018_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000034": {
+        "out": "\\\"sort_sam_00000034_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000034_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000050": {
+        "out": "\\\"sort_sam_00000050_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000050_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000066": {
+        "out": "\\\"sort_sam_00000066_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000066_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000106": {
+        "out": "\\\"sort_sam_00000106_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000106_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000148": {
+        "out": "\\\"sort_sam_00000148_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000148_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000156": {
+        "out": "\\\"sort_sam_00000156_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000156_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    },
+    "00000176": {
+        "out": "\\\"sort_sam_00000176_outfile_0001.bai\\\":1083104000, \\\"sort_sam_00000176_outfile_0002.bam\\\":310896000",
+        "resources": "--percent-cpu 0.1 --cpu-work 6 --mem 135"
+    }
+}

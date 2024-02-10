@@ -1,0 +1,778 @@
+{
+    "00000003": {
+        "out": "\\\"bwa_00000003_outfile_0001.sam\\\":735050271, \\\"bwa_00000003_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000004": {
+        "out": "\\\"bwa_00000004_outfile_0001.sam\\\":735050271, \\\"bwa_00000004_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000005": {
+        "out": "\\\"bwa_00000005_outfile_0001.sam\\\":735050271, \\\"bwa_00000005_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000006": {
+        "out": "\\\"bwa_00000006_outfile_0001.sam\\\":735050271, \\\"bwa_00000006_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000007": {
+        "out": "\\\"bwa_00000007_outfile_0001.sam\\\":735050271, \\\"bwa_00000007_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000008": {
+        "out": "\\\"bwa_00000008_outfile_0001.sam\\\":735050271, \\\"bwa_00000008_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000009": {
+        "out": "\\\"bwa_00000009_outfile_0001.sam\\\":735050271, \\\"bwa_00000009_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000010": {
+        "out": "\\\"bwa_00000010_outfile_0001.sam\\\":735050271, \\\"bwa_00000010_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000011": {
+        "out": "\\\"bwa_00000011_outfile_0001.sam\\\":735050271, \\\"bwa_00000011_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000012": {
+        "out": "\\\"bwa_00000012_outfile_0001.sam\\\":735050271, \\\"bwa_00000012_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000013": {
+        "out": "\\\"bwa_00000013_outfile_0001.sam\\\":735050271, \\\"bwa_00000013_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000014": {
+        "out": "\\\"bwa_00000014_outfile_0001.sam\\\":735050271, \\\"bwa_00000014_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000015": {
+        "out": "\\\"bwa_00000015_outfile_0001.sam\\\":735050271, \\\"bwa_00000015_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000016": {
+        "out": "\\\"bwa_00000016_outfile_0001.sam\\\":735050271, \\\"bwa_00000016_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000017": {
+        "out": "\\\"bwa_00000017_outfile_0001.sam\\\":735050271, \\\"bwa_00000017_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000018": {
+        "out": "\\\"bwa_00000018_outfile_0001.sam\\\":735050271, \\\"bwa_00000018_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000019": {
+        "out": "\\\"bwa_00000019_outfile_0001.sam\\\":735050271, \\\"bwa_00000019_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000020": {
+        "out": "\\\"bwa_00000020_outfile_0001.sam\\\":735050271, \\\"bwa_00000020_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000021": {
+        "out": "\\\"bwa_00000021_outfile_0001.sam\\\":735050271, \\\"bwa_00000021_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000022": {
+        "out": "\\\"bwa_00000022_outfile_0001.sam\\\":735050271, \\\"bwa_00000022_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000023": {
+        "out": "\\\"bwa_00000023_outfile_0001.sam\\\":735050271, \\\"bwa_00000023_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000024": {
+        "out": "\\\"bwa_00000024_outfile_0001.sam\\\":735050271, \\\"bwa_00000024_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000025": {
+        "out": "\\\"bwa_00000025_outfile_0001.sam\\\":735050271, \\\"bwa_00000025_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000026": {
+        "out": "\\\"bwa_00000026_outfile_0001.sam\\\":735050271, \\\"bwa_00000026_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000027": {
+        "out": "\\\"bwa_00000027_outfile_0001.sam\\\":735050271, \\\"bwa_00000027_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000028": {
+        "out": "\\\"bwa_00000028_outfile_0001.sam\\\":735050271, \\\"bwa_00000028_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000029": {
+        "out": "\\\"bwa_00000029_outfile_0001.sam\\\":735050271, \\\"bwa_00000029_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000030": {
+        "out": "\\\"bwa_00000030_outfile_0001.sam\\\":735050271, \\\"bwa_00000030_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000031": {
+        "out": "\\\"bwa_00000031_outfile_0001.sam\\\":735050271, \\\"bwa_00000031_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000032": {
+        "out": "\\\"bwa_00000032_outfile_0001.sam\\\":735050271, \\\"bwa_00000032_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000033": {
+        "out": "\\\"bwa_00000033_outfile_0001.sam\\\":735050271, \\\"bwa_00000033_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000034": {
+        "out": "\\\"bwa_00000034_outfile_0001.sam\\\":735050271, \\\"bwa_00000034_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000035": {
+        "out": "\\\"bwa_00000035_outfile_0001.sam\\\":735050271, \\\"bwa_00000035_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000036": {
+        "out": "\\\"bwa_00000036_outfile_0001.sam\\\":735050271, \\\"bwa_00000036_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000037": {
+        "out": "\\\"bwa_00000037_outfile_0001.sam\\\":735050271, \\\"bwa_00000037_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000038": {
+        "out": "\\\"bwa_00000038_outfile_0001.sam\\\":735050271, \\\"bwa_00000038_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000039": {
+        "out": "\\\"bwa_00000039_outfile_0001.sam\\\":735050271, \\\"bwa_00000039_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000040": {
+        "out": "\\\"bwa_00000040_outfile_0001.sam\\\":735050271, \\\"bwa_00000040_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000041": {
+        "out": "\\\"bwa_00000041_outfile_0001.sam\\\":735050271, \\\"bwa_00000041_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000042": {
+        "out": "\\\"bwa_00000042_outfile_0001.sam\\\":735050271, \\\"bwa_00000042_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000043": {
+        "out": "\\\"bwa_00000043_outfile_0001.sam\\\":735050271, \\\"bwa_00000043_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000044": {
+        "out": "\\\"bwa_00000044_outfile_0001.sam\\\":735050271, \\\"bwa_00000044_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000045": {
+        "out": "\\\"bwa_00000045_outfile_0001.sam\\\":735050271, \\\"bwa_00000045_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000046": {
+        "out": "\\\"bwa_00000046_outfile_0001.sam\\\":735050271, \\\"bwa_00000046_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000047": {
+        "out": "\\\"bwa_00000047_outfile_0001.sam\\\":735050271, \\\"bwa_00000047_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000048": {
+        "out": "\\\"bwa_00000048_outfile_0001.sam\\\":735050271, \\\"bwa_00000048_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000049": {
+        "out": "\\\"bwa_00000049_outfile_0001.sam\\\":735050271, \\\"bwa_00000049_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000050": {
+        "out": "\\\"bwa_00000050_outfile_0001.sam\\\":735050271, \\\"bwa_00000050_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000051": {
+        "out": "\\\"bwa_00000051_outfile_0001.sam\\\":735050271, \\\"bwa_00000051_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000052": {
+        "out": "\\\"bwa_00000052_outfile_0001.sam\\\":735050271, \\\"bwa_00000052_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000053": {
+        "out": "\\\"bwa_00000053_outfile_0001.sam\\\":735050271, \\\"bwa_00000053_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000054": {
+        "out": "\\\"bwa_00000054_outfile_0001.sam\\\":735050271, \\\"bwa_00000054_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000055": {
+        "out": "\\\"bwa_00000055_outfile_0001.sam\\\":735050271, \\\"bwa_00000055_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000056": {
+        "out": "\\\"bwa_00000056_outfile_0001.sam\\\":735050271, \\\"bwa_00000056_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000057": {
+        "out": "\\\"bwa_00000057_outfile_0001.sam\\\":735050271, \\\"bwa_00000057_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000058": {
+        "out": "\\\"bwa_00000058_outfile_0001.sam\\\":735050271, \\\"bwa_00000058_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000059": {
+        "out": "\\\"bwa_00000059_outfile_0001.sam\\\":735050271, \\\"bwa_00000059_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000060": {
+        "out": "\\\"bwa_00000060_outfile_0001.sam\\\":735050271, \\\"bwa_00000060_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000061": {
+        "out": "\\\"bwa_00000061_outfile_0001.sam\\\":735050271, \\\"bwa_00000061_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000062": {
+        "out": "\\\"bwa_00000062_outfile_0001.sam\\\":735050271, \\\"bwa_00000062_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000063": {
+        "out": "\\\"bwa_00000063_outfile_0001.sam\\\":735050271, \\\"bwa_00000063_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000064": {
+        "out": "\\\"bwa_00000064_outfile_0001.sam\\\":735050271, \\\"bwa_00000064_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000065": {
+        "out": "\\\"bwa_00000065_outfile_0001.sam\\\":735050271, \\\"bwa_00000065_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000066": {
+        "out": "\\\"bwa_00000066_outfile_0001.sam\\\":735050271, \\\"bwa_00000066_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000067": {
+        "out": "\\\"bwa_00000067_outfile_0001.sam\\\":735050271, \\\"bwa_00000067_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000068": {
+        "out": "\\\"bwa_00000068_outfile_0001.sam\\\":735050271, \\\"bwa_00000068_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000069": {
+        "out": "\\\"bwa_00000069_outfile_0001.sam\\\":735050271, \\\"bwa_00000069_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000070": {
+        "out": "\\\"bwa_00000070_outfile_0001.sam\\\":735050271, \\\"bwa_00000070_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000071": {
+        "out": "\\\"bwa_00000071_outfile_0001.sam\\\":735050271, \\\"bwa_00000071_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000072": {
+        "out": "\\\"bwa_00000072_outfile_0001.sam\\\":735050271, \\\"bwa_00000072_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000073": {
+        "out": "\\\"bwa_00000073_outfile_0001.sam\\\":735050271, \\\"bwa_00000073_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000074": {
+        "out": "\\\"bwa_00000074_outfile_0001.sam\\\":735050271, \\\"bwa_00000074_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000075": {
+        "out": "\\\"bwa_00000075_outfile_0001.sam\\\":735050271, \\\"bwa_00000075_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000076": {
+        "out": "\\\"bwa_00000076_outfile_0001.sam\\\":735050271, \\\"bwa_00000076_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000077": {
+        "out": "\\\"bwa_00000077_outfile_0001.sam\\\":735050271, \\\"bwa_00000077_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000078": {
+        "out": "\\\"bwa_00000078_outfile_0001.sam\\\":735050271, \\\"bwa_00000078_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000079": {
+        "out": "\\\"bwa_00000079_outfile_0001.sam\\\":735050271, \\\"bwa_00000079_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000080": {
+        "out": "\\\"bwa_00000080_outfile_0001.sam\\\":735050271, \\\"bwa_00000080_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000081": {
+        "out": "\\\"bwa_00000081_outfile_0001.sam\\\":735050271, \\\"bwa_00000081_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000082": {
+        "out": "\\\"bwa_00000082_outfile_0001.sam\\\":735050271, \\\"bwa_00000082_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000083": {
+        "out": "\\\"bwa_00000083_outfile_0001.sam\\\":735050271, \\\"bwa_00000083_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000084": {
+        "out": "\\\"bwa_00000084_outfile_0001.sam\\\":735050271, \\\"bwa_00000084_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000085": {
+        "out": "\\\"bwa_00000085_outfile_0001.sam\\\":735050271, \\\"bwa_00000085_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000086": {
+        "out": "\\\"bwa_00000086_outfile_0001.sam\\\":735050271, \\\"bwa_00000086_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000087": {
+        "out": "\\\"bwa_00000087_outfile_0001.sam\\\":735050271, \\\"bwa_00000087_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000088": {
+        "out": "\\\"bwa_00000088_outfile_0001.sam\\\":735050271, \\\"bwa_00000088_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000089": {
+        "out": "\\\"bwa_00000089_outfile_0001.sam\\\":735050271, \\\"bwa_00000089_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000090": {
+        "out": "\\\"bwa_00000090_outfile_0001.sam\\\":735050271, \\\"bwa_00000090_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000091": {
+        "out": "\\\"bwa_00000091_outfile_0001.sam\\\":735050271, \\\"bwa_00000091_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000092": {
+        "out": "\\\"bwa_00000092_outfile_0001.sam\\\":735050271, \\\"bwa_00000092_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000093": {
+        "out": "\\\"bwa_00000093_outfile_0001.sam\\\":735050271, \\\"bwa_00000093_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000094": {
+        "out": "\\\"bwa_00000094_outfile_0001.sam\\\":735050271, \\\"bwa_00000094_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000095": {
+        "out": "\\\"bwa_00000095_outfile_0001.sam\\\":735050271, \\\"bwa_00000095_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000096": {
+        "out": "\\\"bwa_00000096_outfile_0001.sam\\\":735050271, \\\"bwa_00000096_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000097": {
+        "out": "\\\"bwa_00000097_outfile_0001.sam\\\":735050271, \\\"bwa_00000097_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000098": {
+        "out": "\\\"bwa_00000098_outfile_0001.sam\\\":735050271, \\\"bwa_00000098_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000099": {
+        "out": "\\\"bwa_00000099_outfile_0001.sam\\\":735050271, \\\"bwa_00000099_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000100": {
+        "out": "\\\"bwa_00000100_outfile_0001.sam\\\":735050271, \\\"bwa_00000100_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000101": {
+        "out": "\\\"bwa_00000101_outfile_0001.sam\\\":735050271, \\\"bwa_00000101_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000102": {
+        "out": "\\\"bwa_00000102_outfile_0001.sam\\\":735050271, \\\"bwa_00000102_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000105": {
+        "out": "\\\"bwa_00000105_outfile_0001.sam\\\":735050271, \\\"bwa_00000105_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000106": {
+        "out": "\\\"bwa_00000106_outfile_0001.sam\\\":735050271, \\\"bwa_00000106_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000107": {
+        "out": "\\\"bwa_00000107_outfile_0001.sam\\\":735050271, \\\"bwa_00000107_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000108": {
+        "out": "\\\"bwa_00000108_outfile_0001.sam\\\":735050271, \\\"bwa_00000108_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000109": {
+        "out": "\\\"bwa_00000109_outfile_0001.sam\\\":735050271, \\\"bwa_00000109_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000110": {
+        "out": "\\\"bwa_00000110_outfile_0001.sam\\\":735050271, \\\"bwa_00000110_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000111": {
+        "out": "\\\"bwa_00000111_outfile_0001.sam\\\":735050271, \\\"bwa_00000111_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000112": {
+        "out": "\\\"bwa_00000112_outfile_0001.sam\\\":735050271, \\\"bwa_00000112_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000113": {
+        "out": "\\\"bwa_00000113_outfile_0001.sam\\\":735050271, \\\"bwa_00000113_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000114": {
+        "out": "\\\"bwa_00000114_outfile_0001.sam\\\":735050271, \\\"bwa_00000114_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000115": {
+        "out": "\\\"bwa_00000115_outfile_0001.sam\\\":735050271, \\\"bwa_00000115_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000116": {
+        "out": "\\\"bwa_00000116_outfile_0001.sam\\\":735050271, \\\"bwa_00000116_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000117": {
+        "out": "\\\"bwa_00000117_outfile_0001.sam\\\":735050271, \\\"bwa_00000117_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000118": {
+        "out": "\\\"bwa_00000118_outfile_0001.sam\\\":735050271, \\\"bwa_00000118_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000119": {
+        "out": "\\\"bwa_00000119_outfile_0001.sam\\\":735050271, \\\"bwa_00000119_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000120": {
+        "out": "\\\"bwa_00000120_outfile_0001.sam\\\":735050271, \\\"bwa_00000120_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000121": {
+        "out": "\\\"bwa_00000121_outfile_0001.sam\\\":735050271, \\\"bwa_00000121_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000122": {
+        "out": "\\\"bwa_00000122_outfile_0001.sam\\\":735050271, \\\"bwa_00000122_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000123": {
+        "out": "\\\"bwa_00000123_outfile_0001.sam\\\":735050271, \\\"bwa_00000123_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000124": {
+        "out": "\\\"bwa_00000124_outfile_0001.sam\\\":735050271, \\\"bwa_00000124_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000125": {
+        "out": "\\\"bwa_00000125_outfile_0001.sam\\\":735050271, \\\"bwa_00000125_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000126": {
+        "out": "\\\"bwa_00000126_outfile_0001.sam\\\":735050271, \\\"bwa_00000126_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000127": {
+        "out": "\\\"bwa_00000127_outfile_0001.sam\\\":735050271, \\\"bwa_00000127_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000128": {
+        "out": "\\\"bwa_00000128_outfile_0001.sam\\\":735050271, \\\"bwa_00000128_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000129": {
+        "out": "\\\"bwa_00000129_outfile_0001.sam\\\":735050271, \\\"bwa_00000129_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000130": {
+        "out": "\\\"bwa_00000130_outfile_0001.sam\\\":735050271, \\\"bwa_00000130_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000131": {
+        "out": "\\\"bwa_00000131_outfile_0001.sam\\\":735050271, \\\"bwa_00000131_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000132": {
+        "out": "\\\"bwa_00000132_outfile_0001.sam\\\":735050271, \\\"bwa_00000132_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000133": {
+        "out": "\\\"bwa_00000133_outfile_0001.sam\\\":735050271, \\\"bwa_00000133_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000134": {
+        "out": "\\\"bwa_00000134_outfile_0001.sam\\\":735050271, \\\"bwa_00000134_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000135": {
+        "out": "\\\"bwa_00000135_outfile_0001.sam\\\":735050271, \\\"bwa_00000135_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000136": {
+        "out": "\\\"bwa_00000136_outfile_0001.sam\\\":735050271, \\\"bwa_00000136_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000137": {
+        "out": "\\\"bwa_00000137_outfile_0001.sam\\\":735050271, \\\"bwa_00000137_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000138": {
+        "out": "\\\"bwa_00000138_outfile_0001.sam\\\":735050271, \\\"bwa_00000138_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000139": {
+        "out": "\\\"bwa_00000139_outfile_0001.sam\\\":735050271, \\\"bwa_00000139_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000140": {
+        "out": "\\\"bwa_00000140_outfile_0001.sam\\\":735050271, \\\"bwa_00000140_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000141": {
+        "out": "\\\"bwa_00000141_outfile_0001.sam\\\":735050271, \\\"bwa_00000141_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000142": {
+        "out": "\\\"bwa_00000142_outfile_0001.sam\\\":735050271, \\\"bwa_00000142_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000143": {
+        "out": "\\\"bwa_00000143_outfile_0001.sam\\\":735050271, \\\"bwa_00000143_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000144": {
+        "out": "\\\"bwa_00000144_outfile_0001.sam\\\":735050271, \\\"bwa_00000144_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000145": {
+        "out": "\\\"bwa_00000145_outfile_0001.sam\\\":735050271, \\\"bwa_00000145_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000146": {
+        "out": "\\\"bwa_00000146_outfile_0001.sam\\\":735050271, \\\"bwa_00000146_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000147": {
+        "out": "\\\"bwa_00000147_outfile_0001.sam\\\":735050271, \\\"bwa_00000147_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000148": {
+        "out": "\\\"bwa_00000148_outfile_0001.sam\\\":735050271, \\\"bwa_00000148_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000149": {
+        "out": "\\\"bwa_00000149_outfile_0001.sam\\\":735050271, \\\"bwa_00000149_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000150": {
+        "out": "\\\"bwa_00000150_outfile_0001.sam\\\":735050271, \\\"bwa_00000150_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000151": {
+        "out": "\\\"bwa_00000151_outfile_0001.sam\\\":735050271, \\\"bwa_00000151_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000152": {
+        "out": "\\\"bwa_00000152_outfile_0001.sam\\\":735050271, \\\"bwa_00000152_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000153": {
+        "out": "\\\"bwa_00000153_outfile_0001.sam\\\":735050271, \\\"bwa_00000153_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000154": {
+        "out": "\\\"bwa_00000154_outfile_0001.sam\\\":735050271, \\\"bwa_00000154_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000155": {
+        "out": "\\\"bwa_00000155_outfile_0001.sam\\\":735050271, \\\"bwa_00000155_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000156": {
+        "out": "\\\"bwa_00000156_outfile_0001.sam\\\":735050271, \\\"bwa_00000156_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000157": {
+        "out": "\\\"bwa_00000157_outfile_0001.sam\\\":735050271, \\\"bwa_00000157_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000158": {
+        "out": "\\\"bwa_00000158_outfile_0001.sam\\\":735050271, \\\"bwa_00000158_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000159": {
+        "out": "\\\"bwa_00000159_outfile_0001.sam\\\":735050271, \\\"bwa_00000159_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000160": {
+        "out": "\\\"bwa_00000160_outfile_0001.sam\\\":735050271, \\\"bwa_00000160_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000161": {
+        "out": "\\\"bwa_00000161_outfile_0001.sam\\\":735050271, \\\"bwa_00000161_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000162": {
+        "out": "\\\"bwa_00000162_outfile_0001.sam\\\":735050271, \\\"bwa_00000162_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000163": {
+        "out": "\\\"bwa_00000163_outfile_0001.sam\\\":735050271, \\\"bwa_00000163_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000164": {
+        "out": "\\\"bwa_00000164_outfile_0001.sam\\\":735050271, \\\"bwa_00000164_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000165": {
+        "out": "\\\"bwa_00000165_outfile_0001.sam\\\":735050271, \\\"bwa_00000165_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000166": {
+        "out": "\\\"bwa_00000166_outfile_0001.sam\\\":735050271, \\\"bwa_00000166_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000167": {
+        "out": "\\\"bwa_00000167_outfile_0001.sam\\\":735050271, \\\"bwa_00000167_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000168": {
+        "out": "\\\"bwa_00000168_outfile_0001.sam\\\":735050271, \\\"bwa_00000168_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000169": {
+        "out": "\\\"bwa_00000169_outfile_0001.sam\\\":735050271, \\\"bwa_00000169_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000170": {
+        "out": "\\\"bwa_00000170_outfile_0001.sam\\\":735050271, \\\"bwa_00000170_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000171": {
+        "out": "\\\"bwa_00000171_outfile_0001.sam\\\":735050271, \\\"bwa_00000171_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000172": {
+        "out": "\\\"bwa_00000172_outfile_0001.sam\\\":735050271, \\\"bwa_00000172_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000173": {
+        "out": "\\\"bwa_00000173_outfile_0001.sam\\\":735050271, \\\"bwa_00000173_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000174": {
+        "out": "\\\"bwa_00000174_outfile_0001.sam\\\":735050271, \\\"bwa_00000174_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000175": {
+        "out": "\\\"bwa_00000175_outfile_0001.sam\\\":735050271, \\\"bwa_00000175_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000176": {
+        "out": "\\\"bwa_00000176_outfile_0001.sam\\\":735050271, \\\"bwa_00000176_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000177": {
+        "out": "\\\"bwa_00000177_outfile_0001.sam\\\":735050271, \\\"bwa_00000177_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000178": {
+        "out": "\\\"bwa_00000178_outfile_0001.sam\\\":735050271, \\\"bwa_00000178_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000179": {
+        "out": "\\\"bwa_00000179_outfile_0001.sam\\\":735050271, \\\"bwa_00000179_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000180": {
+        "out": "\\\"bwa_00000180_outfile_0001.sam\\\":735050271, \\\"bwa_00000180_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000181": {
+        "out": "\\\"bwa_00000181_outfile_0001.sam\\\":735050271, \\\"bwa_00000181_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000182": {
+        "out": "\\\"bwa_00000182_outfile_0001.sam\\\":735050271, \\\"bwa_00000182_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000183": {
+        "out": "\\\"bwa_00000183_outfile_0001.sam\\\":735050271, \\\"bwa_00000183_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000184": {
+        "out": "\\\"bwa_00000184_outfile_0001.sam\\\":735050271, \\\"bwa_00000184_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000185": {
+        "out": "\\\"bwa_00000185_outfile_0001.sam\\\":735050271, \\\"bwa_00000185_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000186": {
+        "out": "\\\"bwa_00000186_outfile_0001.sam\\\":735050271, \\\"bwa_00000186_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000187": {
+        "out": "\\\"bwa_00000187_outfile_0001.sam\\\":735050271, \\\"bwa_00000187_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000188": {
+        "out": "\\\"bwa_00000188_outfile_0001.sam\\\":735050271, \\\"bwa_00000188_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000189": {
+        "out": "\\\"bwa_00000189_outfile_0001.sam\\\":735050271, \\\"bwa_00000189_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000190": {
+        "out": "\\\"bwa_00000190_outfile_0001.sam\\\":735050271, \\\"bwa_00000190_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000191": {
+        "out": "\\\"bwa_00000191_outfile_0001.sam\\\":735050271, \\\"bwa_00000191_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000192": {
+        "out": "\\\"bwa_00000192_outfile_0001.sam\\\":735050271, \\\"bwa_00000192_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000193": {
+        "out": "\\\"bwa_00000193_outfile_0001.sam\\\":735050271, \\\"bwa_00000193_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000194": {
+        "out": "\\\"bwa_00000194_outfile_0001.sam\\\":735050271, \\\"bwa_00000194_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000195": {
+        "out": "\\\"bwa_00000195_outfile_0001.sam\\\":735050271, \\\"bwa_00000195_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000196": {
+        "out": "\\\"bwa_00000196_outfile_0001.sam\\\":735050271, \\\"bwa_00000196_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000197": {
+        "out": "\\\"bwa_00000197_outfile_0001.sam\\\":735050271, \\\"bwa_00000197_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    },
+    "00000198": {
+        "out": "\\\"bwa_00000198_outfile_0001.sam\\\":735050271, \\\"bwa_00000198_outfile_0002.err\\\":18000",
+        "resources": "--percent-cpu 0.1 --cpu-work 3 --mem 100"
+    }
+}
