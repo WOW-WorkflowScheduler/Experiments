@@ -1,3 +1,4 @@
 cd $(dirname $0)
 
-kubectl cp chain download-pod:/nfs/chain
+kubectl exec download-pod -- /bin/sh -c "mkdir /nfs/chain/input/ -p"
+kubectl cp chain download-pod:/nfs/chain/
