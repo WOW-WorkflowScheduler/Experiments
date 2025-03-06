@@ -1,0 +1,47 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+name: cws-kind    # you can choose this name freely
+networking:
+  apiServerAddress: "0.0.0.0"
+  apiServerPort: 45383
+featureGates:
+  InPlacePodVerticalScaling: true
+nodes:
+  - role: control-plane
+    extraMounts:
+      - hostPath: /tmp/kind/data/shared
+        containerPath: /shared-data
+      - hostPath: /tmp/kind/data/shared-experiments
+        containerPath: /shared-experiments
+      - hostPath: /dev/shm/kind/localfiles/nodeC
+        containerPath: /localdata  
+      - hostPath: /tmp/kind/data/nfs
+        containerPath: /nfs
+  - role: worker
+    extraMounts:
+      - hostPath: /tmp/kind/data/shared
+        containerPath: /shared-data
+      - hostPath: /tmp/kind/data/shared-experiments
+        containerPath: /shared-experiments
+      - hostPath: /dev/shm/kind/localfiles/node1
+        containerPath: /localdata
+      - hostPath: /tmp/kind/data/nfs
+        containerPath: /nfs
+  - role: worker
+    extraMounts:
+      - hostPath: /tmp/kind/data/shared
+        containerPath: /shared-data
+      - hostPath: /tmp/kind/data/shared-experiments
+        containerPath: /shared-experiments
+      - hostPath: /dev/shm/kind/localfiles/node2
+        containerPath: /localdata
+  - role: worker
+    extraMounts:
+      - hostPath: /tmp/kind/data/shared
+        containerPath: /shared-data
+      - hostPath: /tmp/kind/data/shared-experiments
+        containerPath: /shared-experiments
+      - hostPath: /dev/shm/kind/localfiles/node3
+        containerPath: /localdata
+      - hostPath: /tmp/kind/data/nfs
+        containerPath: /nfs

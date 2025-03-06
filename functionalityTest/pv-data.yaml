@@ -1,0 +1,84 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-ceph-data
+spec:
+  storageClassName: standard
+  accessModes:
+    - ReadWriteOnce
+  capacity:
+    storage: 200Gi
+  hostPath:
+    path: /shared-data
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ceph-data
+spec:
+  volumeName: pv-ceph-data
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 200Gi
+
+---
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-ceph-experiments
+spec:
+  storageClassName: standard
+  accessModes:
+    - ReadWriteOnce
+  capacity:
+    storage: 200Gi
+  hostPath:
+    path: /shared-experiments
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ceph-experiments
+spec:
+  volumeName: pv-ceph-experiments 
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 200Gi
+
+---
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-nfs-data
+spec:
+  storageClassName: standard
+  accessModes:
+    - ReadWriteOnce
+  capacity:
+    storage: 200Gi
+  hostPath:
+    path: /nfs
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: nfs-data
+spec:
+  volumeName: pv-nfs-data
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 200Gi
