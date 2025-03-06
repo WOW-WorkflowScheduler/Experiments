@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: download-pod
-  namespace: ftschirpke
+  namespace: flehmann
 spec:
   containers:
   - name: download
@@ -20,6 +20,6 @@ spec:
   volumes:
   - name: nfs
     persistentVolumeClaim:
-      claimName: nf-input
+      claimName: nfs-data
   securityContext:
     runAsUser: 0
