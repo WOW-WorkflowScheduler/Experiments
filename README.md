@@ -1,6 +1,10 @@
 # Experiments
 
-#### Prepare
+#### Functionality Test
+A simple functionality test is provided [here](functionalityTest).
+Please follow the instructions there.
+
+#### Prepare Experiments
 To prepare the execution of the experiments:
 1) Set your NFS server's IP and username in `experiment/nfsConnection.txt`; this will be used to adjust the network speed of the server.
 1) Set NFS server's IP in `experiment/nfs.yaml`.
