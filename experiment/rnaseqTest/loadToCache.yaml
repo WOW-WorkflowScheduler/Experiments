@@ -1,0 +1,203 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: workflow-prepare
+spec:
+  selector:
+    matchLabels:
+      name: workflow-prepare
+  template:
+    metadata:
+      labels:
+        name: workflow-prepare
+    spec:
+      containers:
+      - command:
+        - /bin/sh
+        - -c
+        - sleep infinity
+        image: alpine
+        name: c1
+      initContainers:
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/fastqc:0.12.1--hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init0
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/nf-core/ubuntu:22.04
+        imagePullPolicy: IfNotPresent
+        name: init1
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/trim-galore:0.6.10--hdfd78af_1
+        imagePullPolicy: IfNotPresent
+        name: init2
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/python:3.9--1
+        imagePullPolicy: IfNotPresent
+        name: init3
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/nf-core/coreutils:9.5--ae99c88a9b28c264
+        imagePullPolicy: IfNotPresent
+        name: init4
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/fq:0.12.0--h9ee0642_0
+        imagePullPolicy: IfNotPresent
+        name: init5
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/python:3.12
+        imagePullPolicy: IfNotPresent
+        name: init6
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/perl:5.26.2
+        imagePullPolicy: IfNotPresent
+        name: init7
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/samtools:1.21--h50ea8bc_0
+        imagePullPolicy: IfNotPresent
+        name: init8
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/nf-core/htslib_samtools_star_gawk:311d422a50e6d829
+        imagePullPolicy: IfNotPresent
+        name: init9
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/bbmap:39.10--h92535d8_0
+        imagePullPolicy: IfNotPresent
+        name: init10
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/salmon:1.10.3--h6dccd9a_2
+        imagePullPolicy: IfNotPresent
+        name: init11
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/picard:3.1.1--hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init12
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/python:3.10.4
+        imagePullPolicy: IfNotPresent
+        name: init13
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/stringtie:2.2.3--h43eeafb_0
+        imagePullPolicy: IfNotPresent
+        name: init14
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/nf-core/bedtools_coreutils:a623c13f66d5262b
+        imagePullPolicy: IfNotPresent
+        name: init15
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/rseqc:5.0.3--py39hf95cd2a_0
+        imagePullPolicy: IfNotPresent
+        name: init16
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/ucsc-bedclip:377--h0b8a92a_2
+        imagePullPolicy: IfNotPresent
+        name: init17
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/ucsc-bedgraphtobigwig:469--h9b8f530_0
+        imagePullPolicy: IfNotPresent
+        name: init18
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/qualimap:2.3--hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init19
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/bioconductor-tximeta:1.20.1--r43hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init20
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/bioconductor-dupradar:1.32.0--r43hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init21
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/subread:2.0.6--he4a0461_2
+        imagePullPolicy: IfNotPresent
+        name: init22
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/bioconductor-summarizedexperiment:1.32.0--r43hdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init23
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/mulled-v2-8849acf39a43cdd6c839a369a74c0adc823e2f91:ab110436faf952a33575c64dd74615a84011450b-0
+        imagePullPolicy: IfNotPresent
+        name: init24
+      - command:
+        - sh
+        - -c
+        - exit 0
+        image: quay.io/biocontainers/multiqc:1.25.1--pyhdfd78af_0
+        imagePullPolicy: IfNotPresent
+        name: init25
