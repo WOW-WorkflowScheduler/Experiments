@@ -24,6 +24,8 @@ spec:
         name: experiments
       - mountPath: /nfs
         name: nfs
+      - mountPath: /localdata
+        name: local
     securityContext:
       runAsUser: 0
     resources:
@@ -42,5 +44,8 @@ spec:
   - name: nfs
     persistentVolumeClaim:
       claimName: nfs-data
+  - name: local
+    hostPath:
+      path: /localdata
   securityContext:
     runAsUser: 0
